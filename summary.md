@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Summary"
 permalink: /summary
+---
 
 # Summary
 

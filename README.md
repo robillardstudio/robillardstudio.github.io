@@ -1,3 +1,3 @@
 Welcome page
 
-[Summary](summary.md)
+[Summary](summary.md) | [About]() | [Critical Climate Machine]()

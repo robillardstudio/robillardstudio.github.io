@@ -1,9 +1,0 @@
----
-layout: page
-title : "Summary"
-permalink: /
----
-
-Gaëtan Robillard is an artist, a researcher and a visiting professor. He produces films and sound installations about the climate and the algorithmization of the world in the post truth era. His work is regularly shown in international art centers : Palais de Tokyo (Paris), Hessel Museum (New York), Pearl Art Museum (Shanghai)... He has published a body of research on the materialization of the algorithmic image, and he also has been supported by major institutes such as the ZKM Center for art and media in Karlsruhe, Ircam-Centre Pompidou and MediaFutures consortium (Horizon 2020, European Union). His thesis "Algorithms at work" (2022) is a research-creation in digital images and art sciences. It focuses on the one hand on early Computer Art in Germany, its traces and its updating; and on the other hand on the production of a series of generative environments, as with Critical Climate Machine (2021). In addition, he offers numerous conferences and workshops, particularly on the arrival of deep learning technologies in art.
-
-[Back](README.md)

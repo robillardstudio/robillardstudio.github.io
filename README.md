@@ -1,3 +1,1 @@
-[Summary](summary.md) | [About]() | [Critical Climate Machine]()
-
-Welcome page
+[Summary](summary.md) | [Generative Environments](gen-env.md) | [Critical Climate Machine]()

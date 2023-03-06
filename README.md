@@ -1,6 +1,4 @@
-[Summary](summary/summary.md)
-
-Gaëtan Robillard
+Gaëtan Robillard. [Summary](summary/summary.md)
 
 ## Generative Environments
 

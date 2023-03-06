@@ -19,7 +19,7 @@ Max Bense en visionnaire : De l’entropie à la dialectique des images programm
 Software
 
 Critical Climate Machine, Python, Intelligent Museum Residency, ZKM/Hertz-Lab, 2022. [repository](https://git.zkm.de/Hertz-Lab/Research/intelligent-museum/residencies/gaetan-robillard/critical-climate-machine)  
-PaperWork, JavaScript, IMAC engineer program, Université Gustave Eiffel, 2019, [repository](https://github.com/robillardstudio/Paperwork)
+PaperWork, JavaScript, IMAC engineer program, Université Gustave Eiffel, 2019. [repository](https://github.com/robillardstudio/Paperwork)
 
 
 

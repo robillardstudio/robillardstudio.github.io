@@ -22,9 +22,3 @@ Critical Climate Machine, Python, Intelligent Museum Residency, ZKM/Hertz-Lab, 2
 PaperWork, JavaScript, IMAC engineer program, Université Gustave Eiffel, 2019. [repository](https://github.com/robillardstudio/Paperwork)
 
 
-
-
-
--------------------
-
-

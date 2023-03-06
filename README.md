@@ -13,7 +13,7 @@ Automate cellulaire, 2018.
 Articles, liftlets
 
 Critical Climate Machine: Data, AI and Sound, Blog MediaFutures, 2021.  
-Workshop IA / Paperwork: Espace haute fréquence, LDI et ESAD TALM-Tours, 2019.
+Workshop IA / Paperwork: Espace haute fréquence, LDI et ESAD TALM-Tours, 2019.  
 Max Bense en visionnaire : De l’entropie à la dialectique des images programmées, Images Re-vues [En ligne], Hors-série, 2021.
 
 Software

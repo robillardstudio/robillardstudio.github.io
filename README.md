@@ -1,4 +1,4 @@
-Gaëtan Robillard. [Summary](summary/summary.md)
+Gaëtan Robillard. [Summary](summary/summary.md), [Twitter](https://twitter.com/RobillardStudio), [LinkedIn](https://www.linkedin.com/in/gaetanrobillard/), [Github](https://github.com/robillardstudio)
 
 ## Generative Environments
 
@@ -27,5 +27,4 @@ PaperWork, JavaScript, IMAC engineer program, Université Gustave Eiffel, 2019, 
 
 -------------------
 
-[Twitter](https://twitter.com/RobillardStudio), [LinkedIn](https://www.linkedin.com/in/gaetanrobillard/), [Github](https://github.com/robillardstudio)
 

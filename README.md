@@ -1,4 +1,6 @@
-| [Summary](summary/summary.md) | [Generative Environments](gen-env.md) | [Critical Climate Machine]() |
+| [Summary](summary/summary.md) [Critical Climate Machine]() |
+
+This is my summary
 
 
 [Twitter](https://twitter.com/RobillardStudio)  

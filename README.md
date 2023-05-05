@@ -1,14 +1,21 @@
-Gaëtan Robillard. [Summary](summary/summary.md)
+Gaëtan Robillard. [Summary](summary.md)
 
 artworks, resarch, classes
 
-generative environments
+-----------------
 
-[Critical Climate Machine (Patterns of Heat)](img/robillard-critical-climate-machine-2022.jpg), 2021-...  
-The Wave in the Matrix, 2019.  
-The Material Basis, 2019.  
-Logical Drawing, 2019.  
-Cellular Automata (wall drawing), 2018.  
+artworks and generative environments
+
+[Critical Climate Machine (Patterns of Heat), 2021-.](ccm.md)
+
+The Wave in the Matrix, 2019.
+
+Gaëtan Robillard and Aude Rabillon, The Material Basis, 2019.
+
+Logical Drawings, 2019.
+
+Cellular Automata (wall drawing), 2018.
+
 ...
 
 -----------------

@@ -5,9 +5,15 @@ title: "critical climate machine"
 
 ![critical climate machine](img/robillard-critical-climate-machine-2022.jpg)
 
-![critical climate machine](img/ccm-ircam-1-2-s.jpg)
+![critical climate machine](img/critical-climate_2022_1_L.jpg)
+
+Critical Climate Machine, exhibition at Deutsches Museum (Das Zukunftsmuseum), Nürnberg, 2021.
+
+![critical climate machine](img/ccm-ircam-2-2-s.jpg)
 
 ![critical climate machine](img/ccm-ircam-3-s.jpg)
+
+Critical Climate Machine, exhibition at Ircam Centre Pompidou, Paris, 2022.
 
 **Project**
 

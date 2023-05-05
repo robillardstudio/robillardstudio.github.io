@@ -36,7 +36,7 @@ Workshop IA / Paperwork: Espace haute fréquence, LDI et ESAD TALM-Tours, 2019.
 
 -----------------
 
-software
+softwares
 
 Critical Climate Machine, Python, Intelligent Museum Residency, ZKM/Hertz-Lab, 2022. [repository](https://git.zkm.de/Hertz-Lab/Research/intelligent-museum/residencies/gaetan-robillard/critical-climate-machine)
 

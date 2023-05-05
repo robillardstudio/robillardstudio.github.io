@@ -1,4 +1,4 @@
-gaëtan robillard. artworks, resarch, softwares, classes.
+gaëtan robillard. artworks, resarch, softwares, teaching.
 
 -----------------
 

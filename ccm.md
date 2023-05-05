@@ -5,6 +5,10 @@ title: "critical climate machine"
 
 ![critical climate machine](img/robillard-critical-climate-machine-2022.jpg)
 
+![critical climate machine](img/ccm-ircam-2-2-s.jpg)
+
+![critical climate machine](img/ccm-ircam-3-s.jpg)
+
 **Project**
 
 Critical Climate Machine is a research based project that quantifies and reveals the mechanisms of misinformation on global warming. The project environment consists of a walk-in room with a data sculpture and a sound installation, resulting from participatory work. The research draws on cognitive sciences, which have shown – much like inoculation in biology, that disinformation can be neutralized by exposing the public to a weak form of disinformation.

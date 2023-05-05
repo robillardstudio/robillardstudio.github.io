@@ -1,4 +1,4 @@
-gaëtan robillard. artworks, resarch, softwares, [summary](summary.md)
+gaëtan robillard. artworks, resarch, softwares. [summary](summary.md)
 
 -----------------
 
@@ -12,8 +12,11 @@ Logical Drawings, 2019
 Vera Molnar Machine Visuelle (VMMV), 2018  
 Cellular Automata (wall drawing), 2018  
 Generic Images (Index, Generate, Learn), 2016  
-Undoing the Tide, 2015. In Search of the Wave, 2013  
-Monsieur Tas, 2013. Citypods, 2007. Trestles, 2005
+Undoing the Tide, 2015  
+In Search of the Wave, 2013  
+Monsieur Tas, 2013  
+Citypods, 2007  
+Trestles, 2005
 
 -----------------
 

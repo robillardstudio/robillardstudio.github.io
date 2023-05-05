@@ -5,7 +5,7 @@ title: "critical climate machine"
 
 ![critical climate machine](img/robillard-critical-climate-machine-2022.jpg)
 
-![critical climate machine](img/ccm-ircam-2-2-s.jpg)
+![critical climate machine](img/ccm-ircam-1-2-s.jpg)
 
 ![critical climate machine](img/ccm-ircam-3-s.jpg)
 

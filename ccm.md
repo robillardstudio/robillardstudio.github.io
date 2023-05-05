@@ -5,7 +5,7 @@ title: "critical climate machine"
 
 ![critical climate machine](img/robillard-critical-climate-machine-2022.jpg)
 
-## Project
+**Project**
 
 Critical Climate Machine is a research based project that quantifies and reveals the mechanisms of misinformation on global warming. The project environment consists of a walk-in room with a data sculpture and a sound installation, resulting from participatory work. The research draws on cognitive sciences, which have shown – much like inoculation in biology, that disinformation can be neutralized by exposing the public to a weak form of disinformation.
 
@@ -19,7 +19,7 @@ Echoing a philosophy of disautomation, as the philosopher Bernard Stiegler may p
 
 <!-- 2000 char. max. -->
 
-## Credits
+**Credits**
 
 Art and research: Gaëtan Robillard
 
@@ -39,7 +39,7 @@ Deep learning expertise: Vincent Nozick
 Engineering: Laurine Capdeville, Jolan Goulin
 Equipment: Laboratoire des Intuitions, ESAD TALM-Tours.
 
-## Support received from
+**Support received from**
 
 Critical Climate Machine is part of the MediaFutures project, and has received funding from the European Union’s framework Horizon 2020 for research and innovation program under grant agreement No 951962.
 

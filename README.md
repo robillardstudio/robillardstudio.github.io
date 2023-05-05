@@ -1,26 +1,14 @@
-gaëtan robillard
-
-artworks, resarch, softwares, [summary](summary.md)
+gaëtan robillard. artworks, resarch, softwares, [summary](summary.md)
 
 -----------------
 
-**artworks and generative environments**
+**artworks and proposals**
 
-[Critical Climate Machine (Patterns of Heat), 2021-.](ccm.md)
-
-The Wave in the Matrix, 2019.
-
-Gaëtan Robillard and Aude Rabillon, The Material Basis, 2019.
-
-Logical Drawings, 2019.
-
-Cellular Automata (wall drawing), 2018.
-
-...
+[Critical Climate Machine (CCM), 2021-.](ccm.md). Climategate, 2009 : 1073 emails hacked from the Climate Research Unit institute (UK), 2020. The Wave in the Matrix, 2019. The Material Basis, 2019. Logical Drawings, 2019. Vera Molnar Machine Visuelle (VMMV), 2018. Cellular Automata (wall drawing), 2018. Generic Images (Index, Generate, Learn), 2016. Undoing the Tide, 2015. In Search of the Wave, 2013. Monsieur Tas, 2013. Citypods, 2007. Trestles, 2005.
 
 -----------------
 
-**publications**
+**publications (selection)**
 
 *Conversations about Computer Art and Artificial Intelligence* (book in progress), ESAD TALM-Tours, 2023.
 
@@ -32,16 +20,14 @@ Gaëtan Robillard and Alain Lioret, "A Vision without a Sight: From Max Bense’
 
 Gaëtan Robillard and Thierry Mouillé, *Workshop IA / Paperwork: Espace haute fréquence*, LDI et ESAD TALM-Tours, 2019.
 
-...
-
 -----------------
 
-**softwares**
+**softwares (selection)**
 
-Critical Climate Machine, Python, Intelligent Museum Residency, ZKM/Hertz-Lab, 2022. [repository](https://git.zkm.de/Hertz-Lab/Research/intelligent-museum/residencies/gaetan-robillard/critical-climate-machine)
+[Critical Climate Machine, Python, Intelligent Museum Residency, ZKM/Hertz-Lab, 2022.](https://git.zkm.de/Hertz-Lab/Research/intelligent-museum/residencies/gaetan-robillard/critical-climate-machine)
 
-PaperWork, JavaScript, IMAC engineer program, Université Gustave Eiffel, 2019. [repository](https://github.com/robillardstudio/Paperwork)
+[PaperWork, JavaScript, IMAC engineer program, Université Gustave Eiffel, 2019.](https://github.com/robillardstudio/Paperwork)
 
-...
+[Generic Images, C++, IMAC engineer program, Université Gustave Eiffel, 2017.](https://github.com/robillardstudio/Images-Generiques)
 
 

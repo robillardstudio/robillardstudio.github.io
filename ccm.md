@@ -3,6 +3,8 @@ layout: page
 title: "critical climate machine"
 ---
 
+[main](README.md)
+
 ![critical climate machine](img/critical-climate_2022_3_L.jpg)
 
 ![critical climate machine](img/critical-climate_2022_1_L.jpg)
@@ -18,8 +20,6 @@ Critical Climate Machine, exhibition at Deutsches Museum (Das Zukunftsmuseum), N
 Critical Climate Machine, exhibition at Ircam Centre Pompidou, Paris, 2022.
 
 ----------
-
-[main](README.md)
 
 **Project**
 
@@ -44,7 +44,7 @@ Voices: Anastasiya Balan, Gabriel Gicquel, Rabiata Issa, Jade Le, Laëtitia Ngha
 Musical research: Jérôme Nika;
 Sound design: Tony Houziaux;
 Computer music: Dionysios Papanikolaou;
-Sound production: IRCAM Centre Pompidou.
+Sound production: IRCAM Centre Pompidou
 
 The Refutation Game: Gaëtan Robillard, Laurine Capdeville;
 Art consultancy, workshops: Özlem Sulak;

@@ -1,4 +1,4 @@
-gaëtan robillard. artworks, resarch, softwares, classe. [summary](summary.md)
+gaëtan robillard. artworks, resarch, softwares, classes.
 
 -----------------
 
@@ -34,12 +34,14 @@ Gaëtan Robillard and Thierry Mouillé, *Workshop IA / Paperwork: Espace haute f
 
 -----------------
 
-**softwares (selection)**
+[summary](summary.md)
+
+<!-- **softwares (selection)**
 
 [Critical Climate Machine, Python, Intelligent Museum Residency, ZKM/Hertz-Lab, 2022.](https://git.zkm.de/Hertz-Lab/Research/intelligent-museum/residencies/gaetan-robillard/critical-climate-machine)
 
 [PaperWork, JavaScript, IMAC engineer program, Université Gustave Eiffel, 2019.](https://github.com/robillardstudio/Paperwork)
 
-[Generic Images, C++, IMAC engineer program, Université Gustave Eiffel, 2017.](https://github.com/robillardstudio/Images-Generiques)
+[Generic Images, C++, IMAC engineer program, Université Gustave Eiffel, 2017.](https://github.com/robillardstudio/Images-Generiques) -->
 
 

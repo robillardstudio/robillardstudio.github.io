@@ -19,6 +19,8 @@ Critical Climate Machine, exhibition at Ircam Centre Pompidou, Paris, 2022.
 
 ----------
 
+[grob](README.md)
+
 **Project**
 
 Critical Climate Machine is a research based project that quantifies and reveals the mechanisms of misinformation on global warming. The project environment consists of a walk-in room with a data sculpture and a sound installation, resulting from participatory work. The research draws on cognitive sciences, which have shown – much like inoculation in biology, that disinformation can be neutralized by exposing the public to a weak form of disinformation.
@@ -39,22 +41,24 @@ Art and research: Gaëtan Robillard
 
 Voices: Anastasiya Balan, Gabriel Gicquel, Rabiata Issa, Jade Le, Laëtitia Ngha, William Qiu
 
-Musical research: Jérôme Nika
-Sound design: Tony Houziaux
-Computer music: Dionysios Papanikolaou
+Musical research: Jérôme Nika;
+Sound design: Tony Houziaux;
+Computer music: Dionysios Papanikolaou;
 Sound production: IRCAM Centre Pompidou.
 
-The Refutation Game: Gaëtan Robillard, Laurine Capdeville
-Art consultancy, workshops: Özlem Sulak
+The Refutation Game: Gaëtan Robillard, Laurine Capdeville;
+Art consultancy, workshops: Özlem Sulak;
 Participants to the first series of workshops: Anastasiya Balan, Lou-Roch Bonnin, Ludwig Chieng, Gabriel Gicquel, Rabiata Issa, Jade Le, Nicolas Lienart, Laëtitia Ngha, Monica Lisacek, Alexia Poncet, Robin Ploix, William Qiu, Simon Roussière, Alexandre Sirey, pupils from Lycée International de l'Est Parisien (international boarding high school of Paris) and students from Gustave Eiffel University
 
-Machine Learning algorithm, training set: John Cook, Travis Coan, Constantine Boussalis, Mirjam O. Nanko
-Deep learning expertise: Vincent Nozick
-Engineering: Laurine Capdeville, Jolan Goulin
-Equipment: Laboratoire des Intuitions, ESAD TALM-Tours.
+Machine Learning algorithm, training set: John Cook, Travis Coan, Constantine Boussalis, Mirjam O. Nanko;
+Deep learning expertise: Vincent Nozick;
+Engineering and design: Laurine Capdeville, Jolan Goulin;
+Equipment: Laboratoire des Intuitions, ESAD TALM-Tours
 
 **Support received from**
 
 Critical Climate Machine is part of the MediaFutures project, and has received funding from the European Union’s framework Horizon 2020 for research and innovation program under grant agreement No 951962.
 
 As part of CCM, Patterns of Heat is an artistic research conducted in the framework of the intelligent.museum project at the ZKM, Center for Art and Media Karlsruhe and at the Deutsches Museum.
+
+[grob](README.md)

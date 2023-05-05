@@ -25,7 +25,7 @@ Critical Climate Machine, exhibition at Ircam Centre Pompidou, Paris, 2022.
 
 Critical Climate Machine is a research based project that quantifies and reveals the mechanisms of misinformation on global warming. The project environment consists of a walk-in room with a data sculpture and a sound installation, resulting from participatory work. The research draws on cognitive sciences, which have shown – much like inoculation in biology, that disinformation can be neutralized by exposing the public to a weak form of disinformation.
 
-Using natural language processing, the sculpture analyzes myths about climate change. Its software continuously processes false arguments collected from Twitter. As a result the sculpture becomes a landscape of "error codes", which the audience is invited to map using a list of misleading claims. On a vertical screen, a visualization renders the thermal effects of the process on the hardware.
+Using natural language processing, the sculpture analyzes myths about climate change. Its software continuously processes false arguments collected from Twitter. As a result the sculpture becomes a landscape of "error codes", which the audience is invited to map using a list of misleading claims. On a vertical screen, a visualization renders the thermal effects of the process on the hardware (Patterns of Heat).
 
 Constructed dialogues surround the sculpture. False arguments are voiced by a speech entity. A second one refutes these claims in response. The composition is based on six voices which were recorded during workshops with students about climate change. Participants were introduced to The Refutation Game – a card game especially designed, based on systematic refutations of skeptical arguments.
 

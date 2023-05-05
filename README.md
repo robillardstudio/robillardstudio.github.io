@@ -1,24 +1,40 @@
-Gaëtan Robillard. [Summary](summary/summary.md), [Twitter](https://twitter.com/RobillardStudio), [LinkedIn](https://www.linkedin.com/in/gaetanrobillard/), [Github](https://github.com/robillardstudio)
+Gaëtan Robillard. [Summary](summary/summary.md)
 
-## Generative Environments
+artworks, resarch, classes
+
+generative environments
 
 [Critical Climate Machine (Patterns of Heat)](img/robillard-critical-climate-machine-2022.jpg), 2021-...  
-La vague dans la matrice, 2019.  
-La base matérielle, 2019.  
-Dessins Logiques, 2019.  
-Automate cellulaire, 2018.
+The Wave in the Matrix, 2019.  
+The Material Basis, 2019.  
+Logical Drawing, 2019.  
+Cellular Automata (wall drawing), 2018.  
+...
 
-## Publications (selection)
+-----------------
 
-Articles, liftlets
+publications
 
-Critical Climate Machine: Data, AI and Sound, Blog MediaFutures, 2021.  
-Workshop IA / Paperwork: Espace haute fréquence, LDI et ESAD TALM-Tours, 2019.  
+Conversations about Computer Art and Artificial Intelligence (book in progress), ESAD TALM-Tours, 2023.
+
 Max Bense en visionnaire : De l’entropie à la dialectique des images programmées, Images Re-vues [En ligne], Hors-série, 2021.
 
-Software
+Critical Climate Machine: Data, AI and Sound, MediaFutures blog, 2021.
 
-Critical Climate Machine, Python, Intelligent Museum Residency, ZKM/Hertz-Lab, 2022. [repository](https://git.zkm.de/Hertz-Lab/Research/intelligent-museum/residencies/gaetan-robillard/critical-climate-machine)  
+Gaëtan Robillard, Alain Lioret, “A Vision without a Sight: From Max Bense’s Theory to the Dialectic of Programmed Images” (proceedings), XXI Generative Art, Domus Argenia, Rome, 2019.
+
+Workshop IA / Paperwork: Espace haute fréquence, LDI et ESAD TALM-Tours, 2019.
+
+...
+
+-----------------
+
+software
+
+Critical Climate Machine, Python, Intelligent Museum Residency, ZKM/Hertz-Lab, 2022. [repository](https://git.zkm.de/Hertz-Lab/Research/intelligent-museum/residencies/gaetan-robillard/critical-climate-machine)
+
 PaperWork, JavaScript, IMAC engineer program, Université Gustave Eiffel, 2019. [repository](https://github.com/robillardstudio/Paperwork)
+
+...
 
 

@@ -3,7 +3,7 @@ layout: page
 title: "critical climate machine"
 ---
 
-![critical climate machine](img/robillard-critical-climate-machine-2022.jpg)
+![critical climate machine](img/critical-climate_2022_3_L.jpg)
 
 ![critical climate machine](img/critical-climate_2022_1_L.jpg)
 
@@ -31,7 +31,7 @@ A part of the dialogue is reinterpreted through a generative process of musical 
 
 Echoing a philosophy of disautomation, as the philosopher Bernard Stiegler may propose, CCM works as a counterpoint to the determinism of technical automation, while opening up to participatory dimensions and the ethical understanding of data processing. The research extends in more workshops, during exhibitions and in new contexts.
 
-<!-- 2000 char. max. -->
+![critical climate machine](img/misinformation-labels_L.jpg)
 
 **Credits**
 

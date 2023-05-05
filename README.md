@@ -1,10 +1,10 @@
-Gaëtan Robillard. [Summary](summary.md)
+gaëtan robillard
 
-artworks, resarch, classes
+artworks, resarch, softwares, [summary](summary.md)
 
 -----------------
 
-artworks and generative environments
+**artworks and generative environments**
 
 [Critical Climate Machine (Patterns of Heat), 2021-.](ccm.md)
 
@@ -20,23 +20,23 @@ Cellular Automata (wall drawing), 2018.
 
 -----------------
 
-publications
+**publications**
 
-Conversations about Computer Art and Artificial Intelligence (book in progress), ESAD TALM-Tours, 2023.
+*Conversations about Computer Art and Artificial Intelligence* (book in progress), ESAD TALM-Tours, 2023.
 
-Max Bense en visionnaire : De l’entropie à la dialectique des images programmées, Images Re-vues [En ligne], Hors-série, 2021.
+"Max Bense en visionnaire : De l’entropie à la dialectique des images programmées", Images Re-vues [En ligne], Hors-série, 2021.
 
-Critical Climate Machine: Data, AI and Sound, MediaFutures blog, 2021.
+"Critical Climate Machine: Data, AI and Sound", MediaFutures blog, 2021.
 
-Gaëtan Robillard, Alain Lioret, “A Vision without a Sight: From Max Bense’s Theory to the Dialectic of Programmed Images” (proceedings), XXI Generative Art, Domus Argenia, Rome, 2019.
+Gaëtan Robillard and Alain Lioret, "A Vision without a Sight: From Max Bense’s Theory to the Dialectic of Programmed Images" (proceedings), XXI Generative Art, Domus Argenia, Rome, 2019.
 
-Workshop IA / Paperwork: Espace haute fréquence, LDI et ESAD TALM-Tours, 2019.
+Gaëtan Robillard and Thierry Mouillé, *Workshop IA / Paperwork: Espace haute fréquence*, LDI et ESAD TALM-Tours, 2019.
 
 ...
 
 -----------------
 
-softwares
+**softwares**
 
 Critical Climate Machine, Python, Intelligent Museum Residency, ZKM/Hertz-Lab, 2022. [repository](https://git.zkm.de/Hertz-Lab/Research/intelligent-museum/residencies/gaetan-robillard/critical-climate-machine)
 

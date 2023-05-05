@@ -5,7 +5,7 @@ title: "critical climate machine"
 
 ![critical climate machine](img/robillard-critical-climate-machine-2022.jpg)
 
-# Project
+## Project
 
 Critical Climate Machine is a research based project that quantifies and reveals the mechanisms of misinformation on global warming. The project environment consists of a walk-in room with a data sculpture and a sound installation, resulting from participatory work. The research draws on cognitive sciences, which have shown – much like inoculation in biology, that disinformation can be neutralized by exposing the public to a weak form of disinformation.
 
@@ -17,21 +17,29 @@ A part of the dialogue is reinterpreted through a generative process of musical 
 
 Echoing a philosophy of disautomation, as the philosopher Bernard Stiegler may propose, CCM works as a counterpoint to the determinism of technical automation, while opening up to participatory dimensions and the ethical understanding of data processing. The research extends in more workshops, during exhibitions and in new contexts.
 
-[main](README.md)
+<!-- 2000 char. max. -->
 
-# Credits
+## Credits
 
 Art and research: Gaëtan Robillard
 
 Voices: Anastasiya Balan, Gabriel Gicquel, Rabiata Issa, Jade Le, Laëtitia Ngha, William Qiu
 
-Musical research: Jérôme Nika Sound design: Tony Houziaux Computer music: Dionysios Papanikolaou Sound production: IRCAM Centre Pompidou.
+Musical research: Jérôme Nika
+Sound design: Tony Houziaux
+Computer music: Dionysios Papanikolaou
+Sound production: IRCAM Centre Pompidou.
 
-The Refutation Game: Gaëtan Robillard, Laurine Capdeville Art consultancy, workshops: Özlem Sulak Participants to the first series of workshops: Anastasiya Balan, Lou-Roch Bonnin, Ludwig Chieng, Gabriel Gicquel, Rabiata Issa, Jade Le, Nicolas Lienart, Laëtitia Ngha, Monica Lisacek, Alexia Poncet, Robin Ploix, William Qiu, Simon Roussière, Alexandre Sirey, pupils from Lycée International de l'Est Parisien (international boarding high school of Paris) and students from Gustave Eiffel University
+The Refutation Game: Gaëtan Robillard, Laurine Capdeville
+Art consultancy, workshops: Özlem Sulak
+Participants to the first series of workshops: Anastasiya Balan, Lou-Roch Bonnin, Ludwig Chieng, Gabriel Gicquel, Rabiata Issa, Jade Le, Nicolas Lienart, Laëtitia Ngha, Monica Lisacek, Alexia Poncet, Robin Ploix, William Qiu, Simon Roussière, Alexandre Sirey, pupils from Lycée International de l'Est Parisien (international boarding high school of Paris) and students from Gustave Eiffel University
 
-Machine Learning algorithm, training set: John Cook, Travis Coan, Constantine Boussalis, Mirjam O. Nanko Deep learning expertise: Vincent Nozick Engineering: Laurine Capdeville, Jolan Goulin Equipment: Laboratoire des Intuitions, ESAD TALM-Tours.
+Machine Learning algorithm, training set: John Cook, Travis Coan, Constantine Boussalis, Mirjam O. Nanko
+Deep learning expertise: Vincent Nozick
+Engineering: Laurine Capdeville, Jolan Goulin
+Equipment: Laboratoire des Intuitions, ESAD TALM-Tours.
 
-# Support received from
+## Support received from
 
 Critical Climate Machine is part of the MediaFutures project, and has received funding from the European Union’s framework Horizon 2020 for research and innovation program under grant agreement No 951962.
 

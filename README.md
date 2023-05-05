@@ -1,4 +1,4 @@
-gaëtan robillard. artworks, resarch, softwares. [summary](summary.md)
+gaëtan robillard. artworks, resarch, softwares, classe. [summary](summary.md)
 
 -----------------
 

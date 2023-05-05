@@ -4,7 +4,16 @@ gaëtan robillard. artworks, resarch, softwares, [summary](summary.md)
 
 **artworks and proposals**
 
-[Critical Climate Machine (CCM), 2021-.](ccm.md) Climategate, 2009 : 1073 emails hacked from the Climate Research Unit institute (UK), 2020. The Wave in the Matrix, 2019. The Material Basis, 2019. Logical Drawings, 2019. Vera Molnar Machine Visuelle (VMMV), 2018. Cellular Automata (wall drawing), 2018. Generic Images (Index, Generate, Learn), 2016. Undoing the Tide, 2015. In Search of the Wave, 2013. Monsieur Tas, 2013. Citypods, 2007. Trestles, 2005.
+[Critical Climate Machine (CCM), 2021-](ccm.md)  
+Climategate, 2009 : 1073 emails hacked from the Climate   Research Unit institute (UK), 2020  
+The Wave in the Matrix, 2019  
+The Material Basis, 2019  
+Logical Drawings, 2019  
+Vera Molnar Machine Visuelle (VMMV), 2018  
+Cellular Automata (wall drawing), 2018  
+Generic Images (Index, Generate, Learn), 2016  
+Undoing the Tide, 2015. In Search of the Wave, 2013  
+Monsieur Tas, 2013. Citypods, 2007. Trestles, 2005
 
 -----------------
 

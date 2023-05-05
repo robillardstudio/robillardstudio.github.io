@@ -1,3 +1,8 @@
+---
+layout: page
+title: "generative environments"
+---
+
 ![critical climate machine](img/robillard-critical-climate-machine-2022.jpg)
 
 # Critical Climate Machine

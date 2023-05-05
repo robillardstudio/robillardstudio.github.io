@@ -47,4 +47,4 @@ Equipment: Laboratoire des Intuitions, ESAD TALM-Tours.
 
 Critical Climate Machine is part of the MediaFutures project, and has received funding from the European Union’s framework Horizon 2020 for research and innovation program under grant agreement No 951962.
 
-As part of CCM, Patterns of Heat is an artistic research conducted in the framework of the intelligent.museum project at the ZKM | Center for Art and Media Karlsruhe and at the Deutsches Museum.
+As part of CCM, Patterns of Heat is an artistic research conducted in the framework of the intelligent.museum project at the ZKM, Center for Art and Media Karlsruhe and at the Deutsches Museum.

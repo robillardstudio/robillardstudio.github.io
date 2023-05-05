@@ -5,10 +5,7 @@ title: "critical climate machine"
 
 [main](README.md)
 
-**news**
-
-Exhibition at ISEA2023-Cité des sciences et de l'indutrie  
-Paris, 16-21.05.2023
+**news** Exhibition at ISEA2023-Cité des sciences et de l'indutrie, Paris, 16-21/05/2023.
 
 ----------
 

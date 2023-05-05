@@ -22,11 +22,11 @@ Trestles, 2005
 
 **publications (selection)**
 
-*Conversations about Computer Art and Artificial Intelligence* (book in progress), ESAD TALM-Tours, 2023.
+Gaëtan Robillard (editor), *Conversations about Computer Art and Artificial Intelligence* (book in progress), ESAD TALM-Tours, 2023.
 
-"Max Bense en visionnaire : De l’entropie à la dialectique des images programmées", Images Re-vues [En ligne], Hors-série, 2021.
+Gaëtan Robillard, "Max Bense en visionnaire : De l’entropie à la dialectique des images programmées", Images Re-vues [En ligne], Hors-série, 2021.
 
-"Critical Climate Machine: Data, AI and Sound", MediaFutures blog, 2021.
+Gaëtan Robillard, "Critical Climate Machine: Data, AI and Sound", MediaFutures blog, 2021.
 
 Gaëtan Robillard and Alain Lioret, "A Vision without a Sight: From Max Bense’s Theory to the Dialectic of Programmed Images" (proceedings), XXI Generative Art, Domus Argenia, Rome, 2019.
 

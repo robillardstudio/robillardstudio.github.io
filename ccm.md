@@ -19,7 +19,7 @@ Critical Climate Machine, exhibition at Ircam Centre Pompidou, Paris, 2022.
 
 ----------
 
-[grob](README.md)
+[main](README.md)
 
 **Project**
 
@@ -61,4 +61,4 @@ Critical Climate Machine is part of the MediaFutures project, and has received f
 
 As part of CCM, Patterns of Heat is an artistic research conducted in the framework of the intelligent.museum project at the ZKM, Center for Art and Media Karlsruhe and at the Deutsches Museum.
 
-[grob](README.md)
+[main](README.md)

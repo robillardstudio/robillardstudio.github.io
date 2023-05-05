@@ -7,7 +7,8 @@ title: "critical climate machine"
 
 news
 
-CCM exhibited at ISEA2023-Cité des sciences et de l'indutrie – 16-21.05.2023.
+Exhibition at ISEA2023-Cité des sciences et de l'indutrie  
+Paris, 16-21.05.2023
 
 ----------
 
@@ -40,6 +41,8 @@ A part of the dialogue is reinterpreted through a generative process of musical 
 Echoing a philosophy of disautomation, as the philosopher Bernard Stiegler may propose, CCM works as a counterpoint to the determinism of technical automation, while opening up to participatory dimensions and the ethical understanding of data processing. The research extends in more workshops, during exhibitions and in new contexts.
 
 ![critical climate machine](img/misinformation-labels_L.jpg)
+
+----------
 
 **Credits**
 

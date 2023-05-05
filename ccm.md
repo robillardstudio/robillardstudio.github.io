@@ -5,6 +5,12 @@ title: "critical climate machine"
 
 [main](README.md)
 
+news
+
+CCM exhibited at ISEA2023-Cité des sciences et de l'indutrie – 16-21.05.2023.
+
+----------
+
 ![critical climate machine](img/critical-climate_2022_3_L.jpg)
 
 ![critical climate machine](img/critical-climate_2022_1_L.jpg)

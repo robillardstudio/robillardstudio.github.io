@@ -9,11 +9,15 @@ title: "critical climate machine"
 
 Critical Climate Machine, exhibition at Deutsches Museum (Das Zukunftsmuseum), Nürnberg, 2021.
 
-![critical climate machine](img/ccm-ircam-2-2-s.jpg)
+----------
 
 ![critical climate machine](img/ccm-ircam-3-s.jpg)
 
+![critical climate machine](img/ccm-ircam-2-2-s.jpg)
+
 Critical Climate Machine, exhibition at Ircam Centre Pompidou, Paris, 2022.
+
+----------
 
 **Project**
 

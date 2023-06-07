@@ -11,19 +11,25 @@ Exhibition and performance – *CCM (Leaves Orchestra)* featuring Victor Guichar
 
 ----------
 
-![critical climate machine](img/critical-climate_2022_3_L.jpg)
+![critical climate machine](img/gaetan-robillard-critical-climate_2022_3_L.jpg)
 
-![critical climate machine](img/critical-climate_2022_1_L.jpg)
+![critical climate machine](img/gaetan-robillard-critical-climate_2022_1_L.jpg)
 
 Critical Climate Machine, exhibition at Deutsches Museum (Das Zukunftsmuseum), Nürnberg, 2021.
 
 ----------
 
-![critical climate machine](img/ccm-ircam-3-s.jpg)
+![critical climate machine](img/gaetan-robillard-ccm-ircam-3-s.jpg)
 
-![critical climate machine](img/ccm-ircam-2-2-s.jpg)
+![critical climate machine](img/gaetan-robillard-ccm-ircam-2-2-s.jpg)
 
 Critical Climate Machine, exhibition at Ircam Centre Pompidou, Paris, 2022.
+
+----------
+
+![critical climate machine](img/gatean-robillard-critical-climate_recording_s.jpg)
+
+Critical Climate Machine, voice recording with Laëtitia Ngha from Lycée International de l'Est Parisien and Anastasiya Balan from Université Gustave Eiffel, 2021.
 
 ----------
 
@@ -39,7 +45,7 @@ A part of the dialogue is reinterpreted through a generative process of musical 
 
 Echoing a philosophy of disautomation, as the philosopher Bernard Stiegler may propose, CCM works as a counterpoint to the determinism of technical automation, while opening up to participatory dimensions and the ethical understanding of data processing. The research extends in more workshops, during exhibitions and in new contexts.
 
-![critical climate machine](img/misinformation-labels_L.jpg)
+![critical climate machine](img/gaetan-robillard-misinformation-labels_L.jpg)
 
 ----------
 

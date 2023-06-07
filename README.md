@@ -1,5 +1,5 @@
 {% raw %}
-<meta http-equiv="Content-Language" content="{{site.active_lang}}">
+{% seo %}
 {% endraw %}
 
 gaëtan robillard. art, resarch, software, teaching.

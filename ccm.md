@@ -5,8 +5,10 @@ title: "critical climate machine"
 
 [main](README.md)
 
-**news**  
-Exhibition – ISEA2023-Cité des sciences et de l'indutrie, Paris, 16-21/05/2023.  
+**news**
+
+Exhibition – ISEA2023-Cité des sciences et de l'indutrie, Paris, 16-21/05/2023.
+
 Exhibition and performance – *CCM (Leaves Orchestra)* featuring Victor Guichard – [6th European Climate Change Adaptation](https://www.ecca2023.eu/) Conference 2023 (ECCA), 20-21/06/2023.
 
 ----------

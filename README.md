@@ -1,8 +1,3 @@
----
-title: Robillard Studio by Gaëtan Robillard
-keywords: Gaëtan Robillard, Undoing the Tide, Les Hors la Loi, Panorama 14, Panorama 15, Le Fresnoy, Projets de recherche, Monsieur Tas, INRA, trophée gally, Wish Tree, Une architecture des humeurs, Mélodie (Shannon), L’œil du Gymnote, Tabouret Studio, Station physiologique, cabinet physiologique,  Architecture for Time and Language, Les temps du dehors, La Traversée,  Concert d’une image, En recherchant la vague, Fictions, Simulations Immémorielles, Des payages rectos-versos, Brasilia’s shell, Citypods, Bel-air animation Le Laboratoire Paris, While the outlaws, exposition, art , post diplôme de Lyon, Concert d’une image, galerie Cortex Athletico, Ivan Ilić
----
-
 gaëtan robillard. art, resarch, software, teaching.
 
 -----------------

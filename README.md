@@ -1,7 +1,6 @@
-{% highlight html %}{% raw %}
+{% raw %}
 <meta http-equiv="Content-Language" content="{{site.active_lang}}">
 {% endraw %}
-{% endhighlight %}
 
 gaëtan robillard. art, resarch, software, teaching.
 

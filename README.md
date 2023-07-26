@@ -1,5 +1,6 @@
 gaëtan robillard. art, resarch, software, teaching.
 
+![gaëtan robillard, ...](img/gaetan-robillard-en-recherchant-la-vague-palais-de-tokyo-2015.jpg)
 -----------------
 
 **artworks and proposals**

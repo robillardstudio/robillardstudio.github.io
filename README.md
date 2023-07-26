@@ -1,6 +1,6 @@
 <!-- keywords: Gaëtan Robillard, de Robillard, art, research, software, teaching, exhibition, recherche, logiciel, enseignement, exposition, s+t+arts prize, le fresnoy, inrev, crilcq, université gustave eiffel, des algorithmes à l'oeuvre, computer art, environnements génératifs, apprentissage profond, intelligence artificielle, algorithms at work, generative environments, deep learning, artificial intelligence -->
 
-gaëtan robillard. art, resarch, software, teaching.
+gaëtan robillard. art, research, software, teaching.
 
 ![gaëtan robillard, ...](img/gaetan-robillard-en-recherchant-la-vague-palais-de-tokyo-2015.jpg)
 

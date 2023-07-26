@@ -1,11 +1,16 @@
 gaëtan robillard. art, resarch, software, teaching.
 
 ![gaëtan robillard, ...](img/gaetan-robillard-en-recherchant-la-vague-palais-de-tokyo-2015.jpg)
+
 -----------------
 
-**artworks and proposals**
+[Critical Climate Machine (CCM), 2021-](ccm.md)
 
-[Critical Climate Machine (CCM), 2021-](ccm.md)  
+-----------------
+
+**generative environments and other**
+
+Critical Climate Machine (CCM), 2021-  
 The Refutation Game, 2021  
 Climategate : 1073 emails hacked from the Climate Research Unit institute (UK), 2020  
 The Wave in the Matrix, 2019  

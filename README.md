@@ -2,13 +2,15 @@ gaëtan robillard. art, resarch, software, teaching.
 
 ![gaëtan robillard, ...](img/gaetan-robillard-en-recherchant-la-vague-palais-de-tokyo-2015.jpg)
 
+Searching for the Wave, audiovisual installation including CNC milling on styrofoam, 2013, exhibition view at Palais de Tokyo (Le Rêve des formes), 2015.
+
 -----------------
 
 [Critical Climate Machine (CCM), 2021-](ccm.md)
 
 -----------------
 
-**generative environments and other**
+**generative environments and more**
 
 Critical Climate Machine (CCM), 2021-  
 The Refutation Game, 2021  

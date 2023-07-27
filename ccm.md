@@ -7,7 +7,7 @@ title: "critical climate machine"
 
 **news**
 
-Critical Climate Machine won a nomination for the [S+T+Arts prize 2023](https://starts-prize.aec.at/en/critical-climate-machine/).
+Critical Climate Machine has been nominated for the [S+T+Arts prize 2023](https://starts-prize.aec.at/en/critical-climate-machine/).
 
 ----------
 

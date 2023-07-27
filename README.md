@@ -2,9 +2,9 @@
 
 gaëtan robillard. art, research, software, teaching.
 
-![gaëtan robillard, ...](img/gaetan-robillard-en-recherchant-la-vague-palais-de-tokyo-2015.jpg)
+[![gaëtan robillard, searching for the wave (en recherchant la vague)](img/gaetan-robillard-en-recherchant-la-vague-palais-de-tokyo-2015.jpg)](img/gaetan-robillard-en-recherchant-la-vague-palais-de-tokyo-2015.jpg))
 
-<span style="font-size:10pt">*Searching for the Wave*, audiovisual installation including CNC milling on styrofoam, 2013. Exhibition view at Palais de Tokyo (Le Rêve des formes), 2015.</span>
+<span style="font-size:10pt">*Searching for the Wave (En recherchant la vague)*, audiovisual installation including CNC milling on styrofoam, 2013. Exhibition view at Palais de Tokyo (Le Rêve des formes), 2015.</span>
 
 -----------------
 
@@ -20,7 +20,7 @@ Vera Molnar Machine Visuelle (VMMV), 2018
 Cellular Automata (wall drawing), 2018  
 Generic Images (index, generate, learn), 2016  
 Undoing the Tide, 2015  
-In Search of the Wave, 2013  
+Searching for the Wave, 2013  
 Monsieur Tas, 2013  
 Citypods, 2007  
 Trestles, 2005

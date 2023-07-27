@@ -2,7 +2,7 @@
 
 gaëtan robillard. art, research, software, teaching.
 
-[![gaëtan robillard, searching for the wave (en recherchant la vague)](img/gaetan-robillard-en-recherchant-la-vague-palais-de-tokyo-2015.jpg)](img/gaetan-robillard-en-recherchant-la-vague-palais-de-tokyo-2015.jpg))
+[![gaëtan robillard, searching for the wave (en recherchant la vague)](img/gaetan-robillard-en-recherchant-la-vague-palais-de-tokyo-2015.jpg)](img/gaetan-robillard-en-recherchant-la-vague-palais-de-tokyo-2015.jpg)
 
 <span style="font-size:10pt">*Searching for the Wave (En recherchant la vague)*, audiovisual installation including CNC milling on styrofoam, 2013. Exhibition view at Palais de Tokyo (Le Rêve des formes), 2015.</span>
 

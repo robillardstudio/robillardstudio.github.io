@@ -7,7 +7,9 @@ title: "critical climate machine"
 
 **news**
 
-Critical Climate Machine has been nominated for the [S+T+Arts prize 2023](https://starts-prize.aec.at/en/critical-climate-machine/).
+Critical Climate Machine (CCM) has been nominated for the [S+T+Arts prize 2023](https://starts-prize.aec.at/en).
+
+CCM is now long listed for the "BCS Futures Award" of the [Lumen Prize](https://www.lumenprize.com) 2023, award for art and technology.
 
 ----------
 

@@ -11,7 +11,7 @@ gaëtan robillard. art, research, software, teaching.
 **generative environments and more**
 
 [Critical Climate Machine (CCM), 2021-](ccm.md)  
-The Refutation Game, 2021  
+[The Refutation Game, 2021](rg.md)  
 Climategate : 1073 emails hacked from the Climate Research Unit institute (UK), 2020  
 The Wave in the Matrix, 2019  
 The Material Basis, 2019  

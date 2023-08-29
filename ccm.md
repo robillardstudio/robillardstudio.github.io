@@ -17,7 +17,7 @@ CCM is now long listed for the "BCS Futures Award" of the [Lumen Prize](https://
 
 ![critical climate machine](img/gaetan-robillard-critical-climate_2022_1_L.jpg)
 
-Critical Climate Machine, exhibition at Deutsches Museum (Das Zukunftsmuseum), Nürnberg, 2021.
+<span style="font-size:10pt">Critical Climate Machine, exhibition at Deutsches Museum (Das Zukunftsmuseum), Nürnberg, 2021.</span>
 
 ----------
 
@@ -25,13 +25,13 @@ Critical Climate Machine, exhibition at Deutsches Museum (Das Zukunftsmuseum), N
 
 ![critical climate machine](img/gaetan-robillard-ccm-ircam-2-2-s.jpg)
 
-Critical Climate Machine, exhibition at Ircam Centre Pompidou, Paris, 2022.
+<span style="font-size:10pt">Critical Climate Machine, exhibition at Ircam Centre Pompidou, Paris, 2022.</span>
 
 ----------
 
 ![critical climate machine](img/gatean-robillard-critical-climate_recording_s.jpg)
 
-Critical Climate Machine, voice recording with Laëtitia Ngha from Lycée International de l'Est Parisien and Anastasiya Balan from Université Gustave Eiffel, 2021.
+<span style="font-size:10pt">Critical Climate Machine, voice recording with Laëtitia Ngha from Lycée International de l'Est Parisien and Anastasiya Balan from Université Gustave Eiffel, 2021.</span>
 
 ----------
 

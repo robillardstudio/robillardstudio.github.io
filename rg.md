@@ -30,5 +30,3 @@ Les 5 formes grandes formes de déni (Travis G. Coan et al., 2021) :
 3. ce n’est pas grave
 4. les solutions n’y feront rien
 5. la science n’est pas fiable
-
-![](img/gaetan-robillard-the-refutation-game-le-jeu-de-la-refutation-2.jpg)

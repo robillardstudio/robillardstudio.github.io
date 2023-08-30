@@ -35,9 +35,9 @@ Soutien : Mediafutures (UE, Horizon 2020)
 
 Sources
 
-Travis G. Coan et al., « Computer-assisted classification of contrarian claims about climate change », Nature Scientific Reports, 2021. Adresse : https://doi.org/10.1038/s41598-021-01714-4.
-
 Global Warming and Climate Change skepticism examined, Skeptical Science. Adresse : https://skepticalscience.com/.
+
+Travis G. Coan et al., « Computer-assisted classification of contrarian claims about climate change », Nature Scientific Reports, 2021. Adresse : https://doi.org/10.1038/s41598-021-01714-4.
 
 
 

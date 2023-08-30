@@ -23,7 +23,7 @@ Lorsqu’une carte de désinformation est posée, le joueur suivant cherche dans
 
 Les sources du jeu reposent sur un ensemble d’arguments sceptiques extraits d'observations sur des lobbies conservateurs américains, et de réfutations tirées du blog Skeptical Science, une plateforme de debunking éditorialisée pour aider les scientifiques, les journalistes et le grand publique à mieux comprendre la désinformation sur le réchauffement climatique.
 
-Les 5 formes grandes formes de déni (Travis G. Coan et al., 2021) :
+Les 5 grandes formes de déni (Travis G. Coan et al., 2021) :
 
 1. il n’y a pas de réchauffement climatique
 2. ce n’est pas nous

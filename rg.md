@@ -21,7 +21,7 @@ Les règles reprennent celles du jeu du Uno. Chaque joueur dispose d’une main 
 
 Lorsqu’une carte de désinformation est posée, le joueur suivant cherche dans sa main la réfutation la plus pertinente. L’ensemble des joueurs délibèrent ensuite de la validité de la réfutation proposée.
 
-Les sources du jeu reposent sur un ensemble d’arguments sceptiques extraits d'observations sur des lobbies conservateurs américains, et de réfutations tirées du blog Skeptical Science, une plateforme de debunking éditorialisée pour aider les scientifiques, les journalistes et le grand publique à mieux comprendre la désinformation sur le réchauffement climatique.
+Les sources du jeu reposent sur un ensemble d’arguments sceptiques extraits d'observations sur des lobbies conservateurs américains, et de réfutations tirées du blog Skeptical Science, une plateforme de debunking éditorialisée pour aider les scientifiques, les journalistes et le grand public à mieux comprendre la désinformation sur le réchauffement climatique.
 
 Les 5 grandes formes de déni (Travis G. Coan et al., 2021) :
 

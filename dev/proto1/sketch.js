@@ -118,7 +118,7 @@ function draw(){
   fill(tint[2]);
   text('indexvid '+ indexvid,windowWidth-480,windowHeight-180+36);
   fill(tint[3]);
-  text('actants '+ actants,windowWidth-480,windowHeight-180+48);
+  text('acteurs '+ actants,windowWidth-480,windowHeight-180+48);
   fill(tint[0]);
   text('autres '+ autres,windowWidth-480,windowHeight-180+60);
 

@@ -8,6 +8,12 @@ gaëtan robillard. art, research, software, teaching.
 
 -----------------
 
+**recent**
+
+[Misleading Images and Artificial Intelligence](https://github.com/robillardstudio/itmai), organized by Gaëtan Robillard and Renée Bourassa, groupes Arcanes (CRILCQ) and Fresnoy – National contemporary art studio, 2023.
+
+-----------------
+
 **generative environments and more**
 
 [Critical Climate Machine (CCM), 2021-](ccm.md)  
@@ -29,7 +35,7 @@ Trestles, 2005
 
 **publications (selection)**
 
-Gaëtan Robillard (editor), *Conversations about Computer Art and Artificial Intelligence* (book in progress), ESAD TALM-Tours, 2023.
+Gaëtan Robillard (editor), *Conversations about Computer Art and Artificial Intelligence* (upcoming), ESAD TALM-Tours, 2023.
 
 Gaëtan Robillard, "Max Bense en visionnaire : De l’entropie à la dialectique des images programmées", Images Re-vues [En ligne], Hors-série, 2021.
 

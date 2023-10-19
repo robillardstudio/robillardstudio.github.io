@@ -4,7 +4,7 @@ gaëtan robillard. art, research, software, teaching.
 
 [![gaëtan robillard, searching for the wave (en recherchant la vague)](img/gaetan-robillard-en-recherchant-la-vague-palais-de-tokyo-2015.jpg)](img/gaetan-robillard-en-recherchant-la-vague-palais-de-tokyo-2015.jpg)
 
-<span style="font-size:10pt">*Searching for the Wave (En recherchant la vague)*, audiovisual installation including CNC milling on styrofoam, 2013. Exhibition view at Palais de Tokyo (Le Rêve des formes), 2015.</span>
+<span style="font-size:10pt">Searching for the Wave (En recherchant la vague), audiovisual installation including CNC milling on styrofoam, 2013. Exhibition view at Palais de Tokyo (Le Rêve des formes), 2015.</span>
 
 -----------------
 
@@ -16,10 +16,10 @@ gaëtan robillard. art, research, software, teaching.
 
 **generative environments and more**
 
-[Critical Climate Machine (CCM), 2021-](ccm.md) | [video 1](https://vimeo.com/667971904?share=copy) | [video 2](https://vimeo.com/810058516?share=copy)  
+[Critical Climate Machine (CCM), 2021-](ccm.md)  
 [The Refutation Game, 2021](rg.md)  
 [Climategate: 1073 emails hacked from the Climate Research Unit institute (UK), 2020](img/gaetan-robillard-climate-gate-2020.jpg)  
-[The Wave in the Matrix, 2019](img/gaetan-robillard-the-wave-in-the-matrix-2019.jpg) | [video](https://vimeo.com/386770591?share=copy)  
+[The Wave in the Matrix, 2019](img/gaetan-robillard-the-wave-in-the-matrix-2019.jpg)  
 [The Material Basis, 2019](img/gaetan-robillard-the-material-basis-2019.jpg)  
 Logical Drawings, 2019  
 Vera Molnar Machine Visuelle (VMMV), 2018  

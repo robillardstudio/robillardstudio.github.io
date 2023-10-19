@@ -16,11 +16,11 @@ gaëtan robillard. art, research, software, teaching.
 
 **generative environments and more**
 
-[Critical Climate Machine (CCM), 2021-](ccm.md)  
+[Critical Climate Machine (CCM), 2021-](ccm.md) | [video 1](https://vimeo.com/667971904?share=copy) | [video 2](https://vimeo.com/810058516?share=copy)  
 [The Refutation Game, 2021](rg.md)  
 [Climategate: 1073 emails hacked from the Climate Research Unit institute (UK), 2020](img/gaetan-robillard-climate-gate-2020.jpg)  
-The Wave in the Matrix, 2019  
-The Material Basis, 2019  
+[The Wave in the Matrix, 2019](img/gaetan-robillard-the-wave-in-the-matrix-2019.jpg) | [video](https://vimeo.com/386770591?share=copy)  
+[The Material Basis, 2019](img/gaetan-robillard-the-material-basis-2019.jpg)  
 Logical Drawings, 2019  
 Vera Molnar Machine Visuelle (VMMV), 2018  
 Cellular Automata (wall drawing), 2018  

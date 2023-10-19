@@ -10,7 +10,7 @@ gaëtan robillard. art, research, software, teaching.
 
 **recent**
 
-[Misleading Images and Artificial Intelligence](https://github.com/robillardstudio/itmai), organized by Gaëtan Robillard and Renée Bourassa, groupes Arcanes (CRILCQ) and Fresnoy – National contemporary arts studio, 2023.
+[Misleading Images and Artificial Intelligence (study day and workshops)](https://github.com/robillardstudio/itmai), organized by Gaëtan Robillard and Renée Bourassa, groupes Arcanes (CRILCQ) and Fresnoy – National contemporary arts studio, 2023.
 
 -----------------
 

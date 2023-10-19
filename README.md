@@ -21,7 +21,7 @@ gaëtan robillard. art, research, software, teaching.
 [Climategate: 1073 emails hacked from the Climate Research Unit institute (UK), 2020](img/gaetan-robillard-climate-gate-2020.jpg)  
 [The Wave in the Matrix, 2019](img/gaetan-robillard-the-wave-in-the-matrix-2019.jpg)  
 [The Material Basis, 2019](img/gaetan-robillard-the-material-basis-2019.jpg)  
-Logical Drawings, 2019  
+[Logical Drawings, 2019](img/gaetan-robillard-logical-drawings-2019.jpg)  
 Vera Molnar Machine Visuelle (VMMV), 2018  
 Cellular Automata (wall drawing), 2018  
 Generic Images (index, generate, learn), 2016  

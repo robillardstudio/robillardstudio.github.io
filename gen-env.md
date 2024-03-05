@@ -10,3 +10,5 @@ Dessins Logiques, 2019.
 Automate cellulaire, 2018.
 
 [Back](README.md)
+
+<!-- Searching for the Wave (En recherchant la vague), audiovisual installation including CNC milling on styrofoam, 2013. Exhibition view at Palais de Tokyo (Le Rêve des formes), 2015. -->

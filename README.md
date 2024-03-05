@@ -10,13 +10,13 @@ gaëtan robillard. art, research, software, teaching.
 
 **recent**
 
-[Misleading Images and Artificial Intelligence (study day and workshops)](https://github.com/robillardstudio/itmai), organized by Gaëtan Robillard and Renée Bourassa, groupes Arcanes (CRILCQ) and Fresnoy – National contemporary arts studio, 2023.
+Gaëtan Robillard, [Modèles d’intelligence artificielle et régimes d’authenticité : dossier thématique](https://edisem.arcanes.ca/omk/s/miara), Groupe international de recherche Arcanes, 2023.
 
 -----------------
 
 **generative environments and more**
 
-[Critical Climate Machine (CCM), 2021-](ccm.md)  
+[Critical Climate Machine (CCM), 2021-2024](ccm.md)  
 [The Refutation Game, 2021](rg.md)  
 [Climategate: 1073 emails hacked from the Climate Research Unit institute (UK), 2020](img/gaetan-robillard-climate-gate-2020.jpg)  
 [The Wave in the Matrix, 2019](img/gaetan-robillard-the-wave-in-the-matrix-2019.jpg)  

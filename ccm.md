@@ -37,7 +37,7 @@ CCM has been nominated for the [S+T+Arts prize 2023](https://starts-prize.aec.at
 
 **Project**
 
-Critical Climate Machine is a research based project that quantifies and reveals the mechanisms of misinformation on global warming. The project environment consists of a walk-in room with a data sculpture and a sound installation, resulting from participatory work. The research draws on cognitive sciences, which have shown – much like inoculation in biology, that disinformation can be neutralized by exposing the public to a weak form of disinformation.
+Critical Climate Machine (2021-2024) is a research based project that quantifies and reveals the mechanisms of misinformation on global warming. The project environment consists of a walk-in room with a data sculpture and a sound installation, resulting from participatory work. The research draws on cognitive sciences, which have shown – much like inoculation in biology, that disinformation can be neutralized by exposing the public to a weak form of disinformation.
 
 Using natural language processing, the sculpture analyzes myths about climate change. Its software continuously processes false arguments collected from Twitter. As a result the sculpture becomes a landscape of "error codes", which the audience is invited to map using a list of misleading claims. On a vertical screen, a visualization renders the thermal effects of the process on the hardware (Patterns of Heat).
 

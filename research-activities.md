@@ -1,0 +1,1 @@
+[Misleading Images and Artificial Intelligence, study day and workshops](https://github.com/robillardstudio/itmai), organized by Gaëtan Robillard and Renée Bourassa, groupes Arcanes (CRILCQ) and Fresnoy – National contemporary arts studio, 2023.

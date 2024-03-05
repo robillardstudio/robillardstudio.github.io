@@ -26,7 +26,7 @@ Vera Molnar Machine Visuelle (VMMV), 2018
 Cellular Automata (wall drawing), 2018  
 Generic Images (index, generate, learn), 2016  
 Undoing the Tide, 2015  
-Searching for the Wave, 2013  
+[Searching for the Wave, 2013](img/gaetan-robillard-en-recherchant-la-vague-palais-de-tokyo-2015.jpg)  
 Monsieur Tas, 2013  
 Citypods, 2007  
 Trestles, 2005

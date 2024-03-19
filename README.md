@@ -13,6 +13,7 @@
 </style>
 
 <div class="floating-box">
+    _______<br>
     <a href="https://github.com/robillardstudio" target="_blank">gitHub</a><br>
     <a href="https://www.zotero.org/gaetanrobillard" target="_blank">zotero</a><br>
     <a href="https://linkedin.com/in/gaetanrobillard" target="_blank">linkedin</a>

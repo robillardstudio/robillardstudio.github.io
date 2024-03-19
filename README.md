@@ -30,14 +30,6 @@ gaëtan robillard. art, design, research, software.
 
 ![Conférence à l'ENSA](/img/gaetan-robillard-ia-au-travail-conference.jpg)
 
-<!-- <div style="text-align: left;">
-<img src="img/gaetan-robillard-ia-au-travail-conference.jpg" alt="Alt Text" style="display: block;" />
-</div> -->
-
-Gaëtan Robillard, « De l'intelligence artificielle au travail : Authenticité, médias, espace », École Nationale Supèrieure d'Architecture de Toulouse, 2024. 
-
-Gaëtan Robillard, [Modèles d’intelligence artificielle et régimes d’authenticité : dossier thématique](https://edisem.arcanes.ca/omk/s/miara), Groupe international de recherche Arcanes, 2023.
-
 -----------------
 
 **generative environments and more**
@@ -61,15 +53,11 @@ Trestles, 2005
 
 **publications (selection)**
 
+Gaëtan Robillard, [Modèles d’intelligence artificielle et régimes d’authenticité : dossier thématique](https://edisem.arcanes.ca/omk/s/miara), Groupe international de recherche Arcanes, 2023.
+
 Gaëtan Robillard (editor), *Conversations about Computer Art and Artificial Intelligence* (upcoming), ESAD TALM-Tours, 2023.
 
 Gaëtan Robillard, "Max Bense en visionnaire : De l’entropie à la dialectique des images programmées", Images Re-vues [En ligne], Hors-série, 2021.
-
-Gaëtan Robillard, "Critical Climate Machine: Data, AI and Sound", MediaFutures blog, 2021.
-
-Gaëtan Robillard and Alain Lioret, "A Vision without a Sight: From Max Bense’s Theory to the Dialectic of Programmed Images" (proceedings), XXI Generative Art, Domus Argenia, Rome, 2019.
-
-Gaëtan Robillard and Thierry Mouillé, *Workshop IA / Paperwork: Espace haute fréquence*, LDI et ESAD TALM-Tours, 2019.
 
 -----------------
 

@@ -13,9 +13,9 @@
 </style>
 
 <div class="floating-box">
-    <a href="https://github.com/robillardstudio" target="_blank">GitHub</a><br>
-    <a href="https://www.zotero.org/gaetanrobillard" target="_blank">Zotero</a><br>
-    <a href="https://linkedin.com/in/gaetanrobillard" target="_blank">LinkedIn</a>
+    <a href="https://github.com/robillardstudio" target="_blank">gitHub</a><br>
+    <a href="https://www.zotero.org/gaetanrobillard" target="_blank">zotero</a><br>
+    <a href="https://linkedin.com/in/gaetanrobillard" target="_blank">linkedin</a>
 </div>
 
 gaëtan robillard. art, design, research, software.

@@ -1,5 +1,23 @@
 <!-- keywords: Gaëtan Robillard, de Robillard, art, research, software, teaching, exhibition, recherche, logiciel, enseignement, exposition, s+t+arts prize, le fresnoy, inrev, crilcq, université gustave eiffel, des algorithmes à l'oeuvre, computer art, environnements génératifs, apprentissage profond, intelligence artificielle, algorithms at work, generative environments, deep learning, artificial intelligence -->
 
+<style>
+.floating-box {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    padding: 10px;
+    z-index: 1000;
+}
+</style>
+
+<div class="floating-box">
+    <a href="https://twitter.com/yourhandle" target="_blank">Twitter</a><br>
+    <a href="https://github.com/yourhandle" target="_blank">GitHub</a><br>
+    <a href="https://linkedin.com/in/yourhandle" target="_blank">LinkedIn</a>
+</div>
+
 gaëtan robillard. art, design, research, software.
 
 [![gaëtan robillard, critical climate machine)](img/gaetan-robillard-critical-climate-machine-2024.jpg)](img/gaetan-robillard-critical-climate-machine-2024.jpg)
@@ -10,7 +28,10 @@ gaëtan robillard. art, design, research, software.
 
 **recent**
 
-![Conférence à l'ENSA](/img/gaetan-robillard-ia-au-travail-conference-smal.jpg)
+<!-- ![Conférence à l'ENSA](/img/gaetan-robillard-ia-au-travail-conference-smal.jpg) -->
+
+<img src="img/gaetan-robillard-ia-au-travail-conference-smal.jpg" alt="Alt Text" style="float: left; margin-right: 10px;" />
+
 
 Gaëtan Robillard, « De l'intelligence artificielle au travail : Authenticité, médias, espace », École Nationale Supèrieure d'Architecture de Toulouse, 2024. 
 

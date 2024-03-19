@@ -30,8 +30,9 @@ gaëtan robillard. art, design, research, software.
 
 <!-- ![Conférence à l'ENSA](/img/gaetan-robillard-ia-au-travail-conference-smal.jpg) -->
 
-<img src="img/gaetan-robillard-ia-au-travail-conference-smal.jpg" alt="Alt Text" style="float: left; margin-right: 10px;" />
-
+<p align="left">
+<img src="img/gaetan-robillard-ia-au-travail-conference-smal.jpg" alt="Alt Text" style="display: block;" />
+</p>
 
 Gaëtan Robillard, « De l'intelligence artificielle au travail : Authenticité, médias, espace », École Nationale Supèrieure d'Architecture de Toulouse, 2024. 
 

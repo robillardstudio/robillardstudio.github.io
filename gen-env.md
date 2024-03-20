@@ -7,7 +7,7 @@ title: "generative environments"
 
 [Critical Climate Machine (CCM), 2021-2024](ccm.md)  
 [The Refutation Game, 2021](rg.md)  
-Climategate: 1073 emails hacked from the Climate Research Unit (UK), 2020  
+Climategate: 1073 emails hacked from the Climate Research Unit, 2020  
 The Wave in the Matrix, 2019  
 The Material Basis, 2019  
 Logical Drawings, 2019  
@@ -24,7 +24,7 @@ Trestles, 2005
 
 ![Climategate: 1073 emails](img/gaetan-robillard-climate-gate-2020.jpg)
 
-<span style="font-size:8pt">*Climategate: 1073 emails hacked from the Climate Research Unit (UK)*, Processing code, 2020. Visualization of each email according to its length ; largest circle refers to an email containing simulation code. Data source: "Climatic Research Unit emails, data, models, 1996-2009", WikiLeaks, 2009.</span>
+<span style="font-size:8pt">*Climategate: 1073 emails hacked from the Climate Research Unit*, Processing code, 2020. Visualization of each email according to its length ; largest circle refers to an email containing simulation code. Data source: "Climatic Research Unit emails, data, models, 1996-2009", WikiLeaks, 2009.</span>
 
 ----
 

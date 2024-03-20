@@ -10,7 +10,7 @@ title: "generative environments"
 Climategate: 1073 emails hacked from the Climate Research Unit, 2020  
 The Wave in the Matrix, 2019  
 The Material Basis, 2019  
-Logical Drawings, 2019  
+[Logical Drawings, 2019](l-drawings.md)  
 Vera Molnar Machine Visuelle (VMMV), 2018  
 Cellular Automata (wall drawing), 2018  
 Generic Images (index, generate, learn), 2016  

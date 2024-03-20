@@ -3,6 +3,8 @@ layout: page
 title: "logical drawings"
 ---
 
+[main](README.md)
+
 ![Logical Drawings, 2019](img/gaetan-robillard-logical-drawings-2019.jpg)
 
 ![Logical Drawings, 2019](img/gaetan-robillard-logical-drawings-2019-2.jpg)
@@ -30,3 +32,5 @@ If transitioning from drawing on paper to drawing on a screen is now considered 
 *S’il est évident de passer du dessin sur papier au dessin sur ecran, qu’en est-il de concevoir un programme génératif qui s’exercerait à la graphie d’un tel ou tel élément de représentation ? Dessins Logiques est une installation qui poursuit cette question à la fois sur le plan de la programmation mais aussi par la conception d’un espace. Les dessins qui évoluent décrivent des situations de transmission. Des textes ecrits par des lycéens sur l’art programmé offrent un contrepoint : les opinions présentés par ces textes divergent du sens positif du programme et divergent également entre eux. En tant qu’environnement, l’installation propose une transaction de sens entre dessin, ecriture et programme.*
 
 For further detail, please refer to Gaëtan Robillard and Alain Lioret, "Generic Images (index, generate, learn): A Heteromatic Environment?", In GA2018, Domus Argenia, 2018.
+
+[main](README.md)

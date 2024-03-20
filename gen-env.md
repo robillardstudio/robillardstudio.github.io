@@ -30,7 +30,7 @@ Trestles, 2005
 
 ![The Wave in the Matrix, 2019](img/gaetan-robillard-the-wave-in-the-matrix-2019.jpg)
 
-<span style="font-size:10pt">*The Wave in the Matrix*, wood, copper, electronics, Python software, loop: 12', 2019. Support – AIRLab residency, Partners – LAMAV Laboratory, Paul Painlevé University Lille 1, LETG IUEM, France Energies Marine. Exhibition view at Espace Croisé, Roubaix (solo show), 2019.</span>
+<span style="font-size:10pt">*The Wave in the Matrix*, wood, copper, electronics, Python software, loop: 12', 2019. Support – AIRLab residency, Partners – LAMAV Laboratory, Paul Painlevé University Lille 1, LETG IUEM, France Energies Marine. Exhibition view at Espace Croisé (solo show), Roubaix, 2019.</span>
 
 ----
 
@@ -42,6 +42,6 @@ Trestles, 2005
 
 ![En recherchant la vague, 2013](img/gaetan-robillard-en-recherchant-la-vague-palais-de-tokyo-2015.jpg)
 
-<span style="font-size:10pt">*Searching for the Wave (En recherchant la vague)*, audiovisual installation including CNC milling on styrofoam, 2013. Exhibition view at Palais de Tokyo (Le Rêve des formes), 2015.</span>
+<span style="font-size:10pt">*Searching for the Wave (En recherchant la vague)*, audiovisual installation including CNC milling on styrofoam, 2013. Exhibition view at Palais de Tokyo (Le Rêve des formes), Paris, 2015.</span>
 
 [main](README.md)

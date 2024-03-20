@@ -13,17 +13,16 @@
 </style>
 
 <div class="floating-box">
-    _______<br>
-    <a href="https://github.com/robillardstudio" target="_blank">gitHub</a><br>
+    <a href="https://linkedin.com/in/gaetanrobillard" target="_blank">linkedin</a><br>
     <a href="https://www.zotero.org/gaetanrobillard" target="_blank">zotero</a><br>
-    <a href="https://linkedin.com/in/gaetanrobillard" target="_blank">linkedin</a>
+    <a href="https://github.com/robillardstudio" target="_blank">github</a>
 </div>
 
 gaëtan robillard. art, design, research, software.
 
 [![gaëtan robillard, critical climate machine)](img/gaetan-robillard-critical-climate-machine-2024.jpg)](img/gaetan-robillard-critical-climate-machine-2024.jpg)
 
-<span style="font-size:10pt">Critical Climate Machine, Copper, wood, electronics, X (Twitter) data collection and classification software, eight-channel sound installation, 30–40 inch screen, variable dimensions, 2021-2024. Exibition view at Gustave Eiffel University (solo exhibition), in the back : table and chairs for playing the Refutation Game, 2024. Photographer : Gabriel de La Chapelle.</span>
+<span style="font-size:8pt">Critical Climate Machine, Copper, wood, electronics, X (Twitter) data collection and classification software, eight-channel sound installation, 30–40 inch screen, variable dimensions, 2021-2024. Exibition view at Gustave Eiffel University (solo exhibition), in the back : table and chairs for playing the Refutation Game, 2024. Photographer : Gabriel de La Chapelle.</span>
 
 -----------------
 
@@ -33,32 +32,23 @@ gaëtan robillard. art, design, research, software.
 
 -----------------
 
-**generative environments and more**
+**generative environments**
 
 [Critical Climate Machine (CCM), 2021-2024](ccm.md)  
 [The Refutation Game, 2021](rg.md)  
-[Climategate: 1073 emails hacked from the Climate Research Unit institute (UK), 2020](img/gaetan-robillard-climate-gate-2020.jpg)  
-[The Wave in the Matrix, 2019](img/gaetan-robillard-the-wave-in-the-matrix-2019.jpg)  
-[The Material Basis, 2019](img/gaetan-robillard-the-material-basis-2019.jpg)  
-[Logical Drawings, 2019](img/gaetan-robillard-logical-drawings-2019.jpg)  
-Vera Molnar Machine Visuelle (VMMV), 2018  
-Cellular Automata (wall drawing), 2018  
-Generic Images (index, generate, learn), 2016  
-Undoing the Tide, 2015  
-[Searching for the Wave, 2013](img/gaetan-robillard-en-recherchant-la-vague-palais-de-tokyo-2015.jpg)  
-Monsieur Tas, 2013  
-Citypods, 2007  
-Trestles, 2005
+[Others (2005-2024)...](gen-env.md)
 
 -----------------
 
 **publications (selection)**
 
-Gaëtan Robillard, [Modèles d’intelligence artificielle et régimes d’authenticité : dossier thématique](https://edisem.arcanes.ca/omk/s/miara), Groupe international de recherche Arcanes, 2023.
+Gaëtan Robillard (editor), *Conversations about Computer Art and Artificial Intelligence* (upcoming), 2024.
 
-Gaëtan Robillard (editor), *Conversations about Computer Art and Artificial Intelligence* (upcoming), ESAD TALM-Tours, 2023.
+Gaëtan Robillard, "Le Jeu de la réfutation. (Re)médiation du climat à travers un environnement génératif", *Intermédialités : histoire et théorie des arts, des lettres et des techniques*, 2024.
 
-Gaëtan Robillard, "Max Bense en visionnaire : De l’entropie à la dialectique des images programmées", Images Re-vues [En ligne], Hors-série, 2021.
+Gaëtan Robillard, "Modèles d’intelligence artificielle et régimes d’authenticité : dossier thématique", Groupe international de recherche Arcanes, 2023. [(url)](https://edisem.arcanes.ca/omk/s/miara)
+
+Gaëtan Robillard, "Max Bense en visionnaire : De l’entropie à la dialectique des images programmées", Images Re-vues, Hors-série, 2021. [(url)](https://journals.openedition.org/imagesrevues/10395)
 
 -----------------
 

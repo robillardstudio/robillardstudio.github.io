@@ -36,7 +36,7 @@ gaëtan robillard. art, design, research, software.
 
 [Critical Climate Machine (CCM), 2021-2024](ccm.md)  
 [The Refutation Game, 2021](rg.md)  
-[Others (2005-2024)...](gen-env.md)
+[More (2005-2024)...](gen-env.md)
 
 -----------------
 

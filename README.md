@@ -47,9 +47,9 @@ Gaëtan Robillard (editor), *Conversations about Computer Art and Artificial Int
 
 Gaëtan Robillard, "Le Jeu de la réfutation. (Re)médiation du climat à travers un environnement génératif", *Intermédialités : histoire et théorie des arts, des lettres et des techniques*, 2024.
 
-Gaëtan Robillard, "Modèles d’intelligence artificielle et régimes d’authenticité : dossier thématique", Groupe international de recherche Arcanes, 2023. [(url)](https://edisem.arcanes.ca/omk/s/miara)
+Gaëtan Robillard, "Modèles d’intelligence artificielle et régimes d’authenticité : dossier thématique", Groupe international de recherche Arcanes, 2023. [[link]](https://edisem.arcanes.ca/omk/s/miara)
 
-Gaëtan Robillard, "Max Bense en visionnaire : De l’entropie à la dialectique des images programmées", Images Re-vues, Hors-série, 2021. [(url)](https://journals.openedition.org/imagesrevues/10395)
+Gaëtan Robillard, "Max Bense en visionnaire : De l’entropie à la dialectique des images programmées", Images Re-vues, Hors-série, 2021. [[link]](https://journals.openedition.org/imagesrevues/10395)
 
 -----------------
 

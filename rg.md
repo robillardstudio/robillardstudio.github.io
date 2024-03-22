@@ -5,7 +5,7 @@ title: "the refutation game"
 
 [main](README.md)
 
-![](img/gaetan-robillard-the-refutation-game-le-jeu-de-la-refutation-1.jpg)
+![the refutation game](img/gaetan-robillard-the-refutation-game.png)
 
 <span style="font-size:10pt">Gaëtan Robillard et Laurine Capdeville, Le jeu de la réfutation, 2021. Édition française conçue avec le soutien de l'Ircam Centre Pompidou.</span>
 
@@ -32,6 +32,8 @@ Les 5 grandes formes de déni (Travis G. Coan et al., 2021) :
 5. la science n’est pas fiable
 
 Soutien : Mediafutures (UE, Horizon 2020)
+
+![the refutation game](img/gaetan-robillard-the-refutation-game-le-jeu-de-la-refutation-1.jpg)
 
 Sources
 

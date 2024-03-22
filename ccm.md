@@ -53,6 +53,8 @@ A part of the dialogue is reinterpreted through a generative process of musical 
 
 Echoing a philosophy of disautomation, as the philosopher Bernard Stiegler may propose, CCM works as a counterpoint to the determinism of technical automation, while opening up to participatory dimensions and the ethical understanding of data processing. The research extends in more workshops, during exhibitions and in new contexts.
 
+----------
+
 ![critical climate machine](img/gaetan-robillard-misinformation-labels_L.jpg)
 
 ----------

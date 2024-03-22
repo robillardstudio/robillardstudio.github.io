@@ -31,9 +31,9 @@ Les 5 grandes formes de déni (Travis G. Coan et al., 2021) :
 4. les solutions n’y feront rien
 5. la science n’est pas fiable
 
-Soutien : Mediafutures (UE, Horizon 2020)
-
 ![the refutation game](img/gaetan-robillard-the-refutation-game-le-jeu-de-la-refutation-1.jpg)
+
+Soutien : Mediafutures (UE, Horizon 2020)
 
 Sources
 

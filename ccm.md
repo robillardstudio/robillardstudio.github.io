@@ -35,6 +35,12 @@ CCM has been nominated for the [S+T+Arts prize 2023](https://starts-prize.aec.at
 
 ----------
 
+![critical climate machine visualization](img/gaetan-robillard-critical-climate-machine-visualization.jpg)
+
+<span style="font-size:10pt">*Patterns of Heat*, visualization, Processing code, 2021-2024. Each point represents one of the analysed tweets.</span>
+
+----------
+
 **Project**
 
 Critical Climate Machine (2021-2024) is a research based project that quantifies and reveals the mechanisms of misinformation on global warming. The project environment consists of a walk-in room with a data sculpture and a sound installation, resulting from participatory work. The research draws on cognitive sciences, which have shown – much like inoculation in biology, that disinformation can be neutralized by exposing the public to a weak form of disinformation.

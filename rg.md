@@ -7,7 +7,7 @@ title: "the refutation game"
 
 ![the refutation game](img/gaetan-robillard-the-refutation-game.png)
 
-<span style="font-size:10pt">Gaëtan Robillard et Laurine Capdeville, Le jeu de la réfutation, 2021. Édition française conçue avec le soutien de l'Ircam Centre Pompidou.</span>
+<span style="font-size:10pt">Gaëtan Robillard et Laurine Capdeville, Jeu de la réfutation, 2021. Édition française conçue avec le soutien de l'Ircam Centre Pompidou.</span>
 
 Le Jeu de la réfutation est un jeu de soixante-dix cartes qui permet aux joueurs d'identifier et de réfuter les informations trompeuses sur le climat sur un mode délibératif. Tout en s'appuyant sur des données scientifiques, les cartes ont été créées à partir de réfutations systématiques d’arguments sceptiques sur le réchauffement climatique. Le jeu facilite un débat structuré entre les participants.
 
@@ -33,7 +33,9 @@ Les 5 grandes formes de déni (Travis G. Coan et al., 2021) :
 
 ![the refutation game](img/gaetan-robillard-the-refutation-game-le-jeu-de-la-refutation-1.jpg)
 
-Soutien : Mediafutures (UE, Horizon 2020)
+Soutien
+
+Mediafutures (UE, Horizon 2020), Ircam Centre Pompidou.
 
 Sources
 

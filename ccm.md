@@ -35,7 +35,7 @@ CCM has been nominated for the [S+T+Arts prize 2023](https://starts-prize.aec.at
 
 ----------
 
-![critical climate machine visualization](img/gaetan-robillard-critical-climate-machine-visualization.jpg)
+![critical climate machine visualization](img/gaetan-robillard-critical-climate-machine-visualization.png)
 
 <span style="font-size:10pt">*Patterns of Heat* (detail), visualization, Processing code, 2021-2024. Each point represents one of the analysed tweets.</span>
 

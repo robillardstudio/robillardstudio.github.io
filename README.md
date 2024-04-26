@@ -28,7 +28,9 @@ gaëtan robillard. art, design, research, software.
 
 **recent**
 
-![Conférence à l'ENSA](/img/gaetan-robillard-ia-au-travail-conference.jpg)
+![Couverture Intermédialité n° 42, Tromper](/img/intermedialite-n-42-couverture-gatean-robillard-recent.png)
+
+<span style="font-size:9pt">CCM now appears on the cover of the new issue of the academic journal *Intermediality: History and Theory of the Arts, Literature and Technologies* (No. 42). This issue includes a new article about the Refutation Game. [[link]](http://intermedialites.com/nouvelle-parution-no-42-tromper-deceiving)</span>
 
 -----------------
 

@@ -17,13 +17,13 @@ title: "logical drawings"
 
 ![Logical Drawings, 2019](img/gaetan-robillard-logical-drawings-2019-5.jpg)
 
-*Logical Drawings*, exhibition view at Espace Croisé (Back / Forward #2), 2019.
+<span style="font-size:10pt">*Logical Drawings*, exhibition view at Espace Croisé (Back / Forward #2), 2019.</span>
 
 ----
 
 ![Logical Drawings, 2019](img/gaetan-robillard-logical-drawings-2019-4.jpg)
 
-*Logical Drawings*, detail.
+<span style="font-size:10pt">*Logical Drawings*, detail.</span>
 
 ----
 

@@ -14,6 +14,7 @@
 
 <div class="floating-box">
     <a href="https://linkedin.com/in/gaetanrobillard" target="_blank">linkedin</a><br>
+    <a href="https://cv.hal.science/gaetan-robillard" target="_blank">cv hal</a><br>
     <a href="https://www.zotero.org/gaetanrobillard" target="_blank">zotero</a><br>
     <a href="https://github.com/robillardstudio" target="_blank">github</a>
 </div>

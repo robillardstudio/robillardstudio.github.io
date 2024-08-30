@@ -5,11 +5,17 @@ title: "critical climate machine"
 
 [main](README.md)
 
-**news**
+**Awards**
 
-Critical Climate Machine (CCM) has won the BCS Futures Award from the [Lumen Prize 2023](https://www.lumenprize.com) for art and technology.
+"Best Art Paper Award" SIGGRAPH 2024, Denver USA.  
+<span style="font-size:10pt">Gaëtan Robillard, Jérôme Nika, "Critical Climate Machine: A Visual and Musical Exploration of Climate Misinformation through Machine Learning", *Proc. ACM Comput. Graph. Interact. Tech.*, 2024. [https://doi.org/10.1145/3664215](https://doi.org/10.1145/3664215
+). Download [PDF](medias/ccm.pdf).</span>
 
-CCM has been nominated for the [S+T+Arts prize 2023](https://starts-prize.aec.at/en).
+"BCS Futures Award" from the Lumen Prize 2023 for art and technology.
+
+Nomination for the S+T+Arts prize 2023.
+
+<!-- CCM has been nominated for the [S+T+Arts prize 2023](https://starts-prize.aec.at/en). -->
 
 ----------
 

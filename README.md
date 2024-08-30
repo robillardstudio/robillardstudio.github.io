@@ -29,6 +29,10 @@ gaëtan robillard. art, design, research, software.
 
 **recent**
 
+![ACM Proceedings Cover](img/siggraph-acm-proceedings-cover-gaetan-robillard.jpg)
+
+<span style="font-size:9pt">CCM received "Best Art Paper Award" at SIGGRAPH 2024, Denver USA. [Download PDF](medias/Robillard_&_Nika_CCM_SIGGRAPH_2024.pdf).</span>
+
 ![Couverture Intermédialité n° 42, Tromper](/img/intermedialite-n-42-couverture-gatean-robillard-recent.png)
 
 <span style="font-size:9pt">CCM now appears on the cover of the new issue of the academic journal *Intermediality: History and Theory of the Arts, Literature and Technologies* (No. 42). This issue includes a new article about the Refutation Game. [[link]](http://intermedialites.com/nouvelle-parution-no-42-tromper-deceiving)</span>
@@ -46,13 +50,15 @@ gaëtan robillard. art, design, research, software.
 
 **publications (selection)**
 
-Gaëtan Robillard (editor), *Conversations about Computer Art and Artificial Intelligence* (upcoming), 2024.
+<!-- Gaëtan Robillard (editor), *Conversations about Computer Art and Artificial Intelligence* (upcoming), 2024. -->
+
+Gaëtan Robillard and Jérôme Nika, "Critical Climate Machine: A Visual and Musical Exploration of Climate Misinformation through Machine Learning", *Proc. ACM Comput. Graph. Interact. Tech.*, 2024. [https://doi.org/10.1145/3664215](https://doi.org/10.1145/3664215)
 
 Gaëtan Robillard, "Le Jeu de la réfutation. (Re)médiation du climat à travers un environnement génératif", *Intermédialités : histoire et théorie des arts, des lettres et des techniques*, 2024.
 
-Gaëtan Robillard, "Modèles d’intelligence artificielle et régimes d’authenticité : dossier thématique", Groupe international de recherche Arcanes, 2023. [[link]](https://edisem.arcanes.ca/omk/s/miara)
+Gaëtan Robillard, "Modèles d’intelligence artificielle et régimes d’authenticité : dossier thématique", Groupe international de recherche Arcanes, 2023. [[url]](https://edisem.arcanes.ca/omk/s/miara)
 
-Gaëtan Robillard, "Max Bense en visionnaire : De l’entropie à la dialectique des images programmées", Images Re-vues, Hors-série, 2021. [[link]](https://journals.openedition.org/imagesrevues/10395)
+Gaëtan Robillard, "Max Bense en visionnaire : De l’entropie à la dialectique des images programmées", Images Re-vues, Hors-série, 2021. [[url]](https://journals.openedition.org/imagesrevues/10395)
 
 -----------------
 

@@ -13,7 +13,13 @@ title: "critical climate machine"
 
 Nomination for the S+T+Arts prize 2023.
 
-<!-- CCM has been nominated for the [S+T+Arts prize 2023](https://starts-prize.aec.at/en). -->
+----------
+
+**Paper**
+
+Gaëtan Robillard and Jérôme Nika. 2024. Critical Climate Machine: A Visual and Musical Exploration of Climate Misinformation through Machine Learning. *Proc. ACM Comput. Graph. Interact. Tech.* 7, 4, Article 56
+(August 2024), 11 pages. [https://doi.org/10.1145/3664215](https://doi.org/10.1145/3664215)
+
 
 ----------
 
@@ -42,13 +48,6 @@ Nomination for the S+T+Arts prize 2023.
 ![critical climate machine visualization](img/gaetan-robillard-critical-climate-machine-visualization.png)
 
 <span style="font-size:10pt">*Patterns of Heat* (detail), visualization, Processing code, 2021-2024. Each point represents one of the analysed tweets.</span>
-
-----------
-
-**Paper**
-
-Gaëtan Robillard and Jérôme Nika. 2024. Critical Climate Machine: A Visual and Musical Exploration of Climate Misinformation through Machine Learning. *Proc. ACM Comput. Graph. Interact. Tech.* 7, 4, Article 56
-(August 2024), 11 pages. [https://doi.org/10.1145/3664215](https://doi.org/10.1145/3664215)
 
 ----------
 

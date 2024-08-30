@@ -7,7 +7,7 @@ title: "critical climate machine"
 
 **Awards**
 
-"Best Art Paper Award" SIGGRAPH 2024, at Denver USA. Download [PDF](medias/Robillard_&_Nika_CCM_SIGGRAPH_2024.pdf).
+"Best Art Paper Award" SIGGRAPH 2024, at Denver USA. [Download PDF](medias/Robillard_&_Nika_CCM_SIGGRAPH_2024.pdf).
 
 "BCS Futures Award" from the Lumen Prize 2023 for art and technology.
 

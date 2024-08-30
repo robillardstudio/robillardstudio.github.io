@@ -8,8 +8,7 @@ title: "critical climate machine"
 **Awards**
 
 "Best Art Paper Award" SIGGRAPH 2024, Denver USA.  
-Gaëtan Robillard, Jérôme Nika, "Critical Climate Machine: A Visual and Musical Exploration of Climate Misinformation through Machine Learning", *Proc. ACM Comput. Graph. Interact. Tech.*, 2024. [https://doi.org/10.1145/3664215](https://doi.org/10.1145/3664215
-). Download [PDF](medias/ccm.pdf).
+Gaëtan Robillard, Jérôme Nika, "Critical Climate Machine: A Visual and Musical Exploration of Climate Misinformation through Machine Learning", *Proc. ACM Comput. Graph. Interact. Tech.*, 2024. https://doi.org/10.1145/3664215. Download [PDF](medias/Robillard_&_Nika_CCM_SIGGRAPH_2024.pdf).
 
 "BCS Futures Award" from the Lumen Prize 2023 for art and technology.
 

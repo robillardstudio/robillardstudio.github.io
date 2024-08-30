@@ -54,11 +54,11 @@ gaëtan robillard. art, design, research, software.
 
 Gaëtan Robillard and Jérôme Nika, "Critical Climate Machine: A Visual and Musical Exploration of Climate Misinformation through Machine Learning", *Proc. ACM Comput. Graph. Interact. Tech.*, 2024. [https://doi.org/10.1145/3664215](https://doi.org/10.1145/3664215)
 
-Gaëtan Robillard, "Le Jeu de la réfutation. (Re)médiation du climat à travers un environnement génératif", *Intermédialités : histoire et théorie des arts, des lettres et des techniques*, 2024.
+Gaëtan Robillard, "Le Jeu de la réfutation. (Re)médiation du climat à travers un environnement génératif", *Intermédialités : histoire et théorie des arts, des lettres et des techniques*, 2024. [https://doi.org/10.7202/1109853ar](https://doi.org/10.7202/1109853ar)
 
 Gaëtan Robillard, "Modèles d’intelligence artificielle et régimes d’authenticité : dossier thématique", Groupe international de recherche Arcanes, 2023. [[url]](https://edisem.arcanes.ca/omk/s/miara)
 
-Gaëtan Robillard, "Max Bense en visionnaire : De l’entropie à la dialectique des images programmées", Images Re-vues, Hors-série, 2021. [[url]](https://journals.openedition.org/imagesrevues/10395)
+Gaëtan Robillard, "Max Bense en visionnaire : De l’entropie à la dialectique des images programmées", Images Re-vues, Hors-série, 2021. [https://doi.org/10.4000/imagesrevues.10395](https://journals.openedition.org/imagesrevues/10395)
 
 -----------------
 

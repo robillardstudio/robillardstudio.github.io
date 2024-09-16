@@ -23,7 +23,7 @@ gaëtan robillard. art, design, research, software.
 
 [![gaëtan robillard, critical climate machine)](img/gaetan-robillard-critical-climate-machine-2024.jpg)](img/gaetan-robillard-critical-climate-machine-2024.jpg)
 
-<span style="font-size:9pt">Critical Climate Machine, Copper, wood, electronics, X (Twitter) data collection and classification software, eight-channel sound installation, 30–40 inch screen, variable dimensions, 2021-2024. Exibition view at Gustave Eiffel University (solo exhibition), in the back: table and chairs for playing the Refutation Game, 2024. Photographer: Gabriel de La Chapelle.</span>
+<span style="font-size:9pt">Critical Climate Machine, Copper, wood, electronics, X (Twitter) data collection and classification software, eight-channel sound installation, 30–40 inch screen, variable dimensions, 2021-2024. Exhibition view at Gustave Eiffel University (solo exhibition), in the back: table and chairs for playing the Refutation Game, 2024. Photographer: Gabriel de La Chapelle.</span>
 
 -----------------
 

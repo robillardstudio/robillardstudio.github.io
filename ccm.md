@@ -5,6 +5,12 @@ title: "critical climate machine"
 
 [main](README.md)
 
+[![gaëtan robillard, critical climate machine)](img/gaetan-robillard-critical-climate-machine-2024.jpg)](img/gaetan-robillard-critical-climate-machine-2024.jpg)
+
+<span style="font-size:9pt">Critical Climate Machine, Copper, wood, electronics, X (Twitter) data collection and classification software, eight-channel sound installation, 30–40 inch screen, variable dimensions, 2021-2024. Exhibition view at Gustave Eiffel University (solo exhibition), in the back: table and chairs for playing the Refutation Game, 2024. Photographer: Gabriel de La Chapelle.</span>
+
+-----------------
+
 **Awards**
 
 "Best Art Paper Award" SIGGRAPH 2024, at Denver USA. [Download PDF](medias/Robillard_&_Nika_CCM_SIGGRAPH_2024.pdf).
@@ -19,7 +25,6 @@ Nomination for the S+T+Arts prize 2023.
 
 Gaëtan Robillard and Jérôme Nika. 2024. Critical Climate Machine: A Visual and Musical Exploration of Climate Misinformation through Machine Learning. *Proc. ACM Comput. Graph. Interact. Tech.* 7, 4, Article 56
 (August 2024), 11 pages. [https://doi.org/10.1145/3664215](https://doi.org/10.1145/3664215)
-
 
 ----------
 

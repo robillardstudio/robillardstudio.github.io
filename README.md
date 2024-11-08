@@ -30,7 +30,7 @@ gaëtan robillard. art, design, research, software.
 
 ![Utilisation de l'intelligence artificielle en art et en design, Azimuts n° 58, 2024](img/azimuts-n-58-utilisation-de-l-intelligence-artificielle.jpg)
 
-<span style="font-size:9pt">On 7th of November 2024, at Cité du design and Esadse Saint-Etienne: launch of the new issue of Azimuts journal,  dedicated to AI and featuring a short paper on *Three Lines*. See [url](https://www.citedudesign.com/fr/a/lancement-azimuts-design-art-recherche-n58-3361).</span>
+<span style="font-size:9pt">On 7th of November 2024, at Cité du design and Esadse Saint-Etienne: launch of the 58th issue of Azimuts journal,  dedicated to AI and featuring a short paper on *Three Lines*. See [url](https://www.citedudesign.com/fr/a/lancement-azimuts-design-art-recherche-n58-3361).</span>
 
 ![ACM Proceedings Cover](img/siggraph-acm-proceedings-cover-gaetan-robillard.jpg)
 

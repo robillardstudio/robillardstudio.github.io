@@ -22,7 +22,7 @@ gaëtan robillard. art, design, research, software.
 
 [![gaëtan robillard, critical climate machine)](img/gaetan-robillard-three-lines-in-a-latent-space.jpg)](img/gaetan-robillard-three-lines-in-a-latent-space.jpg)
 
-<span style="font-size:9pt">*Three Lines (in Latent Space)*, series of images generated with generative adversarial network, trained on custom synthetic data, 2023.</span>
+<span style="font-size:9pt">*Three Lines (in Latent Space)*, series of images produced with generative adversarial network, trained on custom synthetic data, 2023.</span>
 
 -----------------
 

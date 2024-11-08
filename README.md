@@ -21,13 +21,17 @@
 
 gaëtan robillard. art, design, research, software.
 
-[![gaëtan robillard, critical climate machine)](img/gaetan-robillard-critical-climate-machine-2024.jpg)](img/gaetan-robillard-critical-climate-machine-2024.jpg)
+[![gaëtan robillard, critical climate machine)](img/gaetan-robillard-three-lines-in-a-latent-space.jpg)](img/gaetan-robillard-three-lines-in-a-latent-space.jpg)
 
-<span style="font-size:9pt">Critical Climate Machine, Copper, wood, electronics, X (Twitter) data collection and classification software, eight-channel sound installation, 30–40 inch screen, variable dimensions, 2021-2024. Exhibition view at Gustave Eiffel University (solo exhibition), in the back: table and chairs for playing the Refutation Game, 2024. Photographer: Gabriel de La Chapelle.</span>
+<span style="font-size:9pt">*Three Lines (in Latent Space)*, series of images generated with generative adversarial network, trained on custom synthetic data, 2023.</span>
 
 -----------------
 
 **recent**
+
+![Utilisation de l'intelligence artificielle en art et en design, Azimuts n° 58, 2024](img/azimuts-n-58-utilisation-de-l-intelligence-artificielle.jpg)
+
+<span style="font-size:9pt">On 7th of November 2024, at Cité du design and ESAD Saint-Etienne: launch of the new Aziumt journal, dedidacted to AI, featuring a short paper on *Three Lines*. See [url](https://www.citedudesign.com/fr/a/lancement-azimuts-design-art-recherche-n58-3361).</span>
 
 ![ACM Proceedings Cover](img/siggraph-acm-proceedings-cover-gaetan-robillard.jpg)
 
@@ -35,7 +39,7 @@ gaëtan robillard. art, design, research, software.
 
 ![Couverture Intermédialité n° 42, Tromper](/img/intermedialite-n-42-couverture-gatean-robillard-recent.png)
 
-<span style="font-size:9pt">CCM now appears on the cover of the new issue of the academic journal *Intermediality: History and Theory of the Arts, Literature and Technologies* (No. 42). This issue includes a new article about the Refutation Game. [[link]](http://intermedialites.com/nouvelle-parution-no-42-tromper-deceiving)</span>
+<span style="font-size:9pt">CCM now appears on the cover of the new issue of the academic journal *Intermediality: History and Theory of the Arts, Literature and Technologies* (No. 42). This issue includes a new article about the Refutation Game. See [url](http://intermedialites.com/nouvelle-parution-no-42-tromper-deceiving).</span>
 
 -----------------
 
@@ -56,7 +60,7 @@ Gaëtan Robillard and Jérôme Nika, "Critical Climate Machine: A Visual and Mus
 
 Gaëtan Robillard, "Le Jeu de la réfutation. (Re)médiation du climat à travers un environnement génératif", *Intermédialités : histoire et théorie des arts, des lettres et des techniques*, 2024. [https://doi.org/10.7202/1109853ar](https://doi.org/10.7202/1109853ar)
 
-Gaëtan Robillard, "Modèles d’intelligence artificielle et régimes d’authenticité : dossier thématique", Groupe international de recherche Arcanes, 2023. [[url]](https://edisem.arcanes.ca/omk/s/miara)
+Gaëtan Robillard, "Modèles d’intelligence artificielle et régimes d’authenticité : dossier thématique", Groupe international de recherche Arcanes, 2023. see [url](https://edisem.arcanes.ca/omk/s/miara).
 
 Gaëtan Robillard, "Max Bense en visionnaire : De l’entropie à la dialectique des images programmées", Images Re-vues, Hors-série, 2021. [https://doi.org/10.4000/imagesrevues.10395](https://journals.openedition.org/imagesrevues/10395)
 

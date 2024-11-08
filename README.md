@@ -14,8 +14,8 @@
 
 <div class="floating-box">
     <a href="https://linkedin.com/in/gaetanrobillard" target="_blank">linkedin</a><br>
-    <a href="https://github.com/robillardstudio" target="_blank">github</a>
-    <a href="https://www.zotero.org/gaetanrobillard" target="_blank">zotero</a><br>
+    <a href="https://github.com/robillardstudio" target="_blank">github</a><br>
+    <a href="https://www.zotero.org/gaetanrobillard" target="_blank">zotero</a>
 </div>
 
 gaëtan robillard. art, design, research, software.
@@ -30,7 +30,7 @@ gaëtan robillard. art, design, research, software.
 
 ![Utilisation de l'intelligence artificielle en art et en design, Azimuts n° 58, 2024](img/azimuts-n-58-utilisation-de-l-intelligence-artificielle.jpg)
 
-<span style="font-size:9pt">On 7th of November 2024, at Cité du design and ESAD Saint-Etienne: launch of the new Aziumt journal, dedidacted to AI, featuring a short paper on *Three Lines*. See [url](https://www.citedudesign.com/fr/a/lancement-azimuts-design-art-recherche-n58-3361).</span>
+<span style="font-size:9pt">On 7th of November 2024, at Cité du design and Esadse Saint-Etienne: launch of the new edition of Azimuts journal dedicated to AI, featuring a short paper on *Three Lines*. See [url](https://www.citedudesign.com/fr/a/lancement-azimuts-design-art-recherche-n58-3361).</span>
 
 ![ACM Proceedings Cover](img/siggraph-acm-proceedings-cover-gaetan-robillard.jpg)
 

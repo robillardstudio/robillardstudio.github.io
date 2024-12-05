@@ -11,6 +11,6 @@ Gaëtan Robillard is an artist and researcher affiliated with the AIAC laborator
 -------------------
 
 [linkedin](https://www.linkedin.com/in/gaetanrobillard/),
-[cv hal](https://cv.hal.science/gaetan-robillard), [github](https://github.com/robillardstudio)
+[cv hal](https://cv.hal.science/gaetan-robillard)
 
 [main](README.md)

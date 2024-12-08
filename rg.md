@@ -17,6 +17,8 @@ Le jeu repose sur trois buts importants :
 2. réfuter celles-ci
 3. comprendre les techniques de désinformation les plus courantes.
 
+![the refutation game](img/gaetan-robillard-the-refutation-game-le-jeu-de-la-refutation-3.jpg)
+
 Les règles reprennent celles du jeu du Uno. Chaque joueur dispose d’une main de cinq ou sept cartes (selon les variantes) dont il faut se défaire. Les cartes se composent principalement de cartes de désinformations, encadrées en noir, et numérotées selon les cinq grandes catégories de déni (voir plus bas), et des cartes de réfutations encadrées en couleur, avec numérotation correspondante.
 
 Lorsqu’une carte de désinformation est posée, le joueur suivant cherche dans sa main la réfutation la plus pertinente. Les joueurs délibèrent ensuite de la validité de la réfutation proposée.
@@ -31,7 +33,7 @@ Les 5 grandes formes de déni (Travis G. Coan et al., 2021) :
 4. les solutions n’y feront rien
 5. la science n’est pas fiable
 
-![the refutation game](img/gaetan-robillard-the-refutation-game-le-jeu-de-la-refutation-1.jpg)
+<!-- ![the refutation game](img/gaetan-robillard-the-refutation-game-le-jeu-de-la-refutation-1.jpg) -->
 
 Soutien
 

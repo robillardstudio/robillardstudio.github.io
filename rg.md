@@ -14,7 +14,7 @@ Le Jeu de la réfutation est un jeu de soixante-dix cartes qui permet aux joueur
 Le jeu repose sur trois buts importants :
 
 1. identifier les informations trompeuses
-2. réfuter celles-ci
+2. chercher et une réfutation adaptée
 3. comprendre les techniques de désinformation les plus courantes.
 
 ![the refutation game](img/gaetan-robillard-the-refutation-game-le-jeu-de-la-refutation-3.jpg)

@@ -59,7 +59,7 @@ Gaëtan Robillard and Jérôme Nika, "Critical Climate Machine: A Visual and Mus
 
 Gaëtan Robillard, "Le Jeu de la réfutation. (Re)médiation du climat à travers un environnement génératif", *Intermédialités : histoire et théorie des arts, des lettres et des techniques*, 2024. [https://doi.org/10.7202/1109853ar](https://doi.org/10.7202/1109853ar)
 
-Gaëtan Robillard, "Modèles d’intelligence artificielle et régimes d’authenticité : dossier thématique", Groupe international de recherche Arcanes, 2023. see [url](https://edisem.arcanes.ca/omk/s/miara).
+Gaëtan Robillard, "Modèles d’intelligence artificielle et régimes d’authenticité : dossier thématique", Groupe international de recherche Arcanes, 2023. [https://edisem.arcanes.ca/omk/s/miara](https://edisem.arcanes.ca/omk/s/miara).
 
 Gaëtan Robillard, "Max Bense en visionnaire : De l’entropie à la dialectique des images programmées", Images Re-vues, Hors-série, 2021. [https://doi.org/10.4000/imagesrevues.10395](https://journals.openedition.org/imagesrevues/10395)
 

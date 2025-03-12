@@ -27,7 +27,7 @@ When a disinformation card is played, the next player searches their hand for th
 
 The sources of the game are based on a set of skeptical arguments drawn from observations of American conservative lobbying groups, and refutations from the blog Skeptical Science, a debunking platform designed to help scientists, journalists, and the general public better understand misinformation about global warming.
 
-[FR]
+*[FR]*
 
 *Le Jeu de la réfutation est un jeu de soixante-dix cartes qui permet aux joueurs d'identifier et de réfuter les informations trompeuses sur le climat sur un mode délibératif. Tout en s'appuyant sur des données scientifiques, les cartes ont été créées à partir de réfutations systématiques d’arguments sceptiques. Le jeu facilite un débat structuré entre les participants.*
 
@@ -53,11 +53,11 @@ The sources of the game are based on a set of skeptical arguments drawn from obs
 
 <!-- ![the refutation game](img/gaetan-robillard-the-refutation-game-le-jeu-de-la-refutation-1.jpg) -->
 
-Soutien
+Support
 
 Mediafutures (UE, Horizon 2020), Ircam Centre Pompidou.
 
-Sources
+References
 
 Global Warming and Climate Change skepticism examined, Skeptical Science. Adresse : https://skepticalscience.com/.
 

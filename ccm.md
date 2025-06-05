@@ -46,7 +46,7 @@ Gaëtan Robillard and Jérôme Nika. 2024. Critical Climate Machine: A Visual an
 
 ![critical climate machine](img/gatean-robillard-critical-climate_recording_s.jpg)
 
-<span style="font-size:10pt">Critical Climate Machine, voice recording with Laëtitia Ngha from Lycée International de l'Est Parisien and Anastasiya Balan from Université Gustave Eiffel, 2021.</span>
+<span style="font-size:10pt">Critical Climate Machine, voice recording with Laëtitia Ngaha from Lycée International de l'Est Parisien and Anastasiya Balan from Université Gustave Eiffel, 2021.</span>
 
 ----------
 
@@ -78,7 +78,7 @@ Echoing a philosophy of disautomation, as the philosopher Bernard Stiegler may p
 
 Art and research: Gaëtan Robillard
 
-Voices: Anastasiya Balan, Gabriel Gicquel, Rabiata Issa, Jade Le, Laëtitia Ngha, William Qiu
+Voices: Anastasiya Balan, Gabriel Gicquel, Rabiata Issa, Jade Le, Laëtitia Ngaha, William Qiu
 
 Musical research: Jérôme Nika;
 Sound design: Tony Houziaux;
@@ -87,7 +87,7 @@ Sound production: IRCAM Centre Pompidou
 
 The Refutation Game: Gaëtan Robillard, Laurine Capdeville;
 Art consultancy, workshops: Özlem Sulak;
-Participants to the first series of workshops: Anastasiya Balan, Lou-Roch Bonnin, Ludwig Chieng, Gabriel Gicquel, Rabiata Issa, Jade Le, Nicolas Lienart, Laëtitia Ngha, Monica Lisacek, Alexia Poncet, Robin Ploix, William Qiu, Simon Roussière, Alexandre Sirey, pupils from Lycée International de l'Est Parisien (international boarding high school of Paris) and students from Gustave Eiffel University
+Participants to the first series of workshops: Anastasiya Balan, Lou-Roch Bonnin, Ludwig Chieng, Gabriel Gicquel, Rabiata Issa, Jade Le, Nicolas Lienart, Laëtitia Ngaha, Monica Lisacek, Alexia Poncet, Robin Ploix, William Qiu, Simon Roussière, Alexandre Sirey, pupils from Lycée International de l'Est Parisien (international boarding high school of Paris) and students from Gustave Eiffel University
 
 Machine Learning algorithm, training set: John Cook, Travis Coan, Constantine Boussalis, Mirjam O. Nanko;
 Deep learning expertise: Vincent Nozick;
